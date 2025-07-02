@@ -1,0 +1,1366 @@
+,pilot,mp,archetype,deck_uuid,place
+0,Casey Miller,46,Jeskai Control,caa0e156-f675-47bb-95c4-b2d1011b5d20,1
+1,Michael DeBenedetto-Plummer,44,Jeskai Oculus,7d1634e2-f9ee-4c60-be52-b2d0017ce669,2
+2,Justin Parente,42,Izzet Prowess,d458edd3-955a-4589-b105-b2d1009bf49a,3
+3,Gregory Johnson,40,Azorius Omniscience,260d0595-4774-4444-86fb-b2d100ef47ca,4
+4,Gabriel Nicholas,38,Jeskai Oculus,6bce08b8-69bd-4d4d-a144-b2d1012b81bc,5
+5,Jennifer Wang,37,Azorius Omniscience,d867868a-7b36-4dcf-94ad-b2d101242a09,6
+6,Jacob Durish,37,Izzet Prowess,7b64685f-185d-41f6-baa9-b2d1014c62c5,7
+7,Tyler Stechman,36,Azorius Omniscience,b42805e3-2491-47df-93f1-b2d1013468c2,8
+8,Minh Nguyen,36,Jeskai Oculus,7383fd0e-a1d7-4abf-ab50-b2d1014fee74,9
+9,Matt Xu,36,Izzet Prowess,c9d12b7c-84fa-4ecf-a25e-b2d10137329c,10
+10,Raymond Sainz,36,Izzet Prowess,934a5182-9b3f-4219-871d-b2d1014c1828,11
+11,Jacob Milchman,36,Izzet Prowess,87c21129-5292-4dd9-8bfd-b2d100f604fd,12
+12,Emmett Neyman,36,Zur Overlords,b45cded2-389c-444a-bb90-b2d0011e3d45,13
+13,Garrett Bryan,36,Zur Overlords,4912f250-4892-4aa2-abc2-b2d1014e78e7,14
+14,Xander Naumenko,36,Esper Pixie,baed4562-e1d7-44a9-aa69-b2d10154529a,15
+15,Amber Thurlow,34,Izzet Prowess,65915020-39da-453f-9243-b2d101559967,16
+16,SKreimendahl,34,Orzhov Pixie,961f0d75-2227-4e3e-82d8-b2d10134180b,17
+17,David Dufour,34,Izzet Prowess,f56ecde2-f43e-4e6e-b40e-b2b4003fcb90,18
+18,Koby Keller,34,Izzet Prowess,57b0b083-7dc3-4737-a3a2-b2d100339ad6,19
+19,Max Milechman,34,Izzet Prowess,8582ce23-24ed-4833-b4ea-b2cc0162615a,20
+20,FleshEatinGnome,34,Jeskai Control,8755c16d-8de8-4509-b8bb-b2d10110e2f1,21
+21,Kenith Dsouza,34,Jeskai Oculus,cc034d4c-f5c1-4c3d-8269-b2d10176c093,22
+22,ch4rm2nd0r,34,Mono-Red Aggro,33786942-fcf9-4019-8708-b2b200492fdd,23
+23,Caz Rodriguez,34,Mono-Black Demons,6da68644-74cb-40c4-9442-b2d1015f23d6,24
+24,Lucca LiPuma,34,Izzet Prowess,d103af0b-a39f-463a-91c9-b2ce016d7c73,25
+25,Abe Schnake,34,Izzet Prowess,27f7879c-91e6-41d8-8871-b2d00128f5d8,26
+26,Collins Mullen,34,Izzet Prowess,2355fefb-1471-4dc9-8319-b2d10161965d,27
+27,Max Rappaport,34,Dimir Midrange,58f22969-ce03-4de0-913f-b2bf000c77b9,28
+28,LaneS,34,Izzet Prowess,fc39f447-94af-4f05-ae4e-b2d1012ccd3e,29
+29,Luna Eason,34,Izzet Prowess,d5ac4a14-83ce-4281-b899-b2d100de6283,30
+30,Daniel Spiegel,34,Izzet Prowess,f445dc81-45fd-4bcf-9ebe-b2d100d48ffb,31
+31,Jia Wu,34,Jeskai Control,e4bb0abf-d2ae-4e06-a6e9-b2ce0050dcc7,32
+32,Jacob Rabaey,34,Jeskai Oculus,cf1c778c-3bd4-4b24-a999-b2d1002d3624,33
+33,Roman Fusco,34,Jeskai Control,5e4ef8c1-6a72-4fd6-b7d8-b2d00050d5ba,34
+34,ThumbThumb,33,Jeskai Oculus,768f98f6-6ead-46e2-b438-b2d1016219f1,35
+35,Connor Mackenzie,33,Izzet Prowess,27c24e36-ce0e-446c-8712-b2ca0146518b,36
+36,Julius Fan,33,Jeskai Control,681acf60-4b69-4aec-a3a6-b2d100f17f91,37
+37,Noah Bailyn,33,Azorius Omniscience,481830ea-c66d-4772-9b21-b2d1011f9a8d,38
+38,TheDuckButt,33,Mardu Pixie,819c7607-ca2d-4876-bb3d-b2cf0157bac8,39
+39,James Moskal,33,Izzet Prowess,302d4885-e342-487c-a2a6-b2d10161e23a,40
+40,Cole Weinstein,33,Gruul Mice,2c161f9e-d2ae-47bc-90e1-b2d100dc0511,41
+41,Mark Stanton,33,Izzet Prowess,b552121f-4f97-4bba-99ef-b2d100d6c51a,42
+42,kalebw,33,Izzet Prowess,15194cd2-2534-47af-9b39-b2d200d220a1,43
+43,Maverick Finn,33,Izzet Prowess,dd37ee1b-649c-49db-b200-b2ce0025549e,44
+44,Michael Byrd,33,Izzet Prowess,d7d601dc-2a36-43b3-9ceb-b2d100433b23,45
+45,VicWood,33,Esper Pixie,687653f5-f8a5-420d-aefa-b2d100e9ad32,46
+46,Nathaniel Wilson,33,Mono-Red Aggro,cdb7bb53-071a-46a1-95cf-b2d1014e6b83,47
+47,John Proctor,33,Izzet Prowess,1b6c192a-0e55-46dc-8460-b2d10161535a,48
+48,Evariel,33,Azorius Omniscience,428877ed-34aa-4683-b3b7-b2d100fe9f06,49
+49,Levi White,33,Dimir Demons,c99e6293-89d4-44e9-8bb4-b2d1016acd12,50
+50,Damian Del Nero,33,Zur Overlords,afbf90d3-b2b7-447b-bf77-b2d1002862cb,51
+51,Andrew Elenbogen,33,Izzet Prowess,dd08f8fa-a122-44cc-93c8-b2d0005a6f33,52
+52,Michael Bearmon,33,Mono-Red Aggro,76a48af6-d271-4cde-a398-b2b1010c5c18,53
+53,Andrejs Prost,33,Izzet Prowess,de4a8764-7307-4f23-943d-b2d100c32ba3,54
+54,Alfonso Concha,33,Izzet Prowess,6a5c88f1-a4b7-4299-af45-b2d1017e04db,55
+55,Austin Clark,33,Izzet Prowess,94ea4bc0-af1d-4390-af41-b2d100f69c0d,56
+56,James Newman,32,Izzet Prowess,68d75acd-d4fc-4572-b4e8-b2d1013f2183,57
+57,Aaron Ward,31,Zur Overlords,cd45cc9e-08c6-4a08-b524-b2d100f2f6a9,58
+58,Daniel Seidl,31,Izzet Prowess,aca08668-efeb-43ed-9f67-b2d10049b5cc,59
+59,Andrew Hakenewerth,31,Izzet Prowess,9450f3a2-4713-430c-8805-b2d10159fcac,60
+60,Casey Moon,31,Zur Overlords,fe99b8ff-f1d6-4a80-8b09-b2d0002a6e6a,61
+61,Christian Hollweg,31,Jeskai Oculus,f9d8a48c-14ae-40a5-8ecd-b2d000f4a05e,62
+62,Sanggu Lee,31,Mono-Black Demons,32de61e3-6d95-4d33-9a25-b2d0012ec5d1,63
+63,Ben Smith,31,Orzhov Pixie,c9025941-b322-40f0-8c52-b2d10125375d,64
+64,csei2301,31,Azorius Control,91857908-c534-4bde-8d16-b2d100fa2f37,65
+65,NiHaoDyLan,31,Mono-Red Aggro,922d068b-c9fb-476f-8894-b2d101749318,66
+66,Adam Brace,31,Izzet Prowess,390e4b4f-5d23-499b-b1df-b2d1016b14ad,67
+67,Alexander Lim,31,Zur Overlords,189588d3-9a5a-435e-81ff-b2ce006139f7,68
+68,William Dou,31,Zur Overlords,cf0c409c-d10a-4167-a8c7-b2d1013225f8,69
+69,The1337Troll,31,Izzet Prowess,058cd256-103d-4e11-b38f-b2d100d11c5d,70
+70,Scott Markeson,31,Jeskai Oculus,4b808442-f3c3-429a-b737-b2d10158e4df,71
+71,Ryan Bellamy,31,Izzet Prowess,a9dbe2fb-dedf-4955-b84e-b2d00182a92f,72
+72,Matthew Hanifan,31,Jeskai Oculus,d47bbfea-a439-461c-8d84-b2d1015744aa,73
+73,Andrew Wolbers,31,Zur Overlords,c598f601-b34e-4c46-936b-b2d10167d0f2,74
+74,Raja Sulaiman,31,Orzhov Midrange,732c8213-ce2c-4164-ab11-b2d10153e3be,75
+75,Andy Garcia-Romo,31,Izzet Prowess,a7beaf42-6a7d-4974-a260-b2d101643f02,76
+76,David Johnson,31,Jeskai Oculus,2d38c6ff-f5f7-4bab-b729-b2d1012bc8dd,77
+77,Ryan Simmons,31,Izzet Prowess,c4e5a250-8624-4101-a90e-b2d10146f48a,78
+78,Mitch Mazzei,31,Izzet Prowess,9b08175e-31cc-46f4-9ae3-b2d10086dc74,79
+79,Taylor Laehn,31,Azorius Control,c9f80501-c620-4117-b7f6-b2d10128f351,80
+80,Charlie Drevecky,31,Izzet Prowess,bad3a703-51f4-4666-951e-b2d1011ab0ab,81
+81,Bach Chau,31,Izzet Prowess,43a6faf5-9c85-4c16-b656-b2d10168b976,82
+82,Alexander Beebe,31,Zur Overlords,d208481a-773c-4c75-a540-b2d10139fb78,83
+83,nathanb1992,31,Jeskai Oculus,fd98bf86-5899-4e3d-8bf2-b2d101107775,84
+84,Michael Bernat,31,Izzet Prowess,19a5ae3b-7d65-4579-bfad-b2cf018102da,85
+85,Jacob Falcon,31,Izzet Prowess,57a57b62-60ea-4f20-8334-b2ce000dc91e,86
+86,Sam Bogue,31,Izzet Prowess,a9796149-5d0e-4c94-b61c-b2d00016e83d,87
+87,ricky linn,31,Golgari Roots,0b4d1390-5cf9-4027-837c-b2d00064f0db,88
+88,Rayton Espiritu,30,Izzet Prowess,0da77a5f-e643-41a1-932b-b2cd004ec4c8,89
+89,Bassel Nasri,30,Jeskai Oculus,d39a954a-72d6-4336-acfc-b2d10121add8,90
+90,ChrisCast,30,Mono-Red Aggro,8638b814-e2a3-4be0-aa2d-b2d0013730ba,91
+91,dahun,30,Izzet Prowess,7b066cc2-c9f7-4e63-974c-b2d000face93,92
+92,Griffin Berschauer,30,Izzet Prowess,45d2bd25-cc64-4d6c-92cd-b2d101676c8f,93
+93,MosheMann,30,Orzhov Pixie,1f41dd01-7e4c-43b9-b1c9-b2d100cb86e2,94
+94,Nate Muhlbach,30,Izzet Prowess,76b171ac-51bc-401b-b6be-b2d0010c7c3c,95
+95,Max Medeiros,30,Mono-Red Aggro,d69966c3-4808-4875-a036-b2d101083f4a,96
+96,Tyler Smalley,30,Gruul Mice,6d01428e-cbb8-4c98-bcff-b2d101673a2f,97
+97,William Thompson,30,Jeskai Oculus,cb94f508-a946-476b-befc-b2d0003360d2,98
+98,Talonflame23185,30,Azorius Omniscience,399309bc-7c89-4fa1-80c6-b2d00184c23f,99
+99,ChaseM,30,Sultai Beanstalk,cb7d4efe-c9ba-4462-a0fb-b2d1014e49eb,100
+100,Michael Raff,30,Izzet Prowess,9c4d973e-5eeb-4a4b-8000-b2d10165c050,101
+101,Slater Claudel,30,Mono-Black Demons,c7f9d094-110d-4a1e-9a5a-b2d100d94258,102
+102,Christian Calcano,30,Izzet Prowess,ec161fce-89c4-4108-bc6a-b2d1013108b7,103
+103,Jake Coenen,30,Izzet Prowess,42d72502-1f4b-4edb-b19a-b2d00185204f,104
+104,Joseph Puglisi,30,Mono-Black Demons,7e7ff43e-8565-4078-964c-b2d00171fc6a,105
+105,Branden Chambers,30,Izzet Prowess,8a51b095-db3e-4b30-98ab-b2d100cd9804,106
+106,Chris Botelho,30,Azorius Control,339a3ad6-b5c2-48f8-bd72-b2d100ca5a41,107
+107,Brandon McArthur,30,Izzet Prowess,c63c9b68-7c72-41b1-ac87-b2d10053493c,108
+108,Drew Buchanan,30,Izzet Prowess,86326d52-3fc5-4fde-9fbd-b2d2002c8720,109
+109,Camari Bolger,30,Izzet Prowess,e4582596-f63d-40b7-a347-b2d10025f5cc,110
+110,John Puglisi Clark,30,Mono-Black Demons,ef113b57-8e14-4905-b3f2-b2d10173ed6e,111
+111,Michael Foland,30,Zur Overlords,73756d42-0762-476c-a820-b2d100f4989c,112
+112,Zach Boblitt,30,Mono-Red Aggro,787c481c-aea7-44a2-a2c6-b2d001016f09,113
+113,Hannah Greco,30,Izzet Prowess,c6f7c5b6-34fa-459c-a3aa-b2d001596fe5,114
+114,Gabriel Joglar,30,Jeskai Oculus,53e10a6b-4d7a-476a-8160-b2d10179c35d,115
+115,Jobey James,30,Dimir Midrange,69c8ecd0-33f8-44ba-a501-b2d101583400,116
+116,thatladyfreya,30,Mono-White Tokens,b72cef26-4d95-40c1-864b-b2d101552aa4,117
+117,Avi Grinberg,30,Izzet Prowess,ea211a6b-55cd-46ca-b293-b2d10016cb8e,118
+118,IsaacWLevy,30,Izzet Prowess,ac559b00-f4dd-41ac-a693-b2d1017158f3,119
+119,Sean Zhou,30,Izzet Prowess,07759fa4-2c4d-4671-bf07-b2d001146065,120
+120,Julian Wellman,30,Azorius Omniscience,b43f089e-31da-410a-b159-b2d10170c1b8,121
+121,Benny Zeoli,30,Jeskai Oculus,50fe9e80-c37b-4415-a4dc-b2d100772eb0,122
+122,Casey Ryback,30,Gruul Mice,ac89fc08-21c3-4976-a8f4-b2d1013fcb99,123
+123,seaver mounarath,30,Mono-Black Demons,1758b94e-cf8a-40fb-a2a6-b2d1010fa887,124
+124,QuestingRex,30,Orzhov Pixie,7a06a923-f22b-4012-8339-b2d0003bc2c9,125
+125,deanthonymdavis,30,Azorius Omniscience,13c0d675-9675-4c42-8d22-b2d101733fa1,126
+126,Matt Pointon,30,Jeskai Control,3f59cc03-321d-49b5-9b35-b2d100373d25,127
+127,Msiambanes,30,Mono-Black Demons,e121977e-7809-4f55-85dc-b2cd000f5b64,128
+128,Kyro Sewall,30,Mono-Red Aggro,db04bf03-ad48-46c4-86f3-b2d100f3dd51,129
+129,Richard Fried,30,Izzet Prowess,455ed428-f1e4-436f-91dc-b2d10171d278,130
+130,Andrew Falk,30,Azorius Artifacts,60f40ad3-d740-4883-bb1c-b2d101444226,131
+131,Amaz,30,Jeskai Oculus,4c1a865a-7f7a-4815-9ff3-b2d000566f05,132
+132,Trevor Dalrymple,30,Mono-Black Demons,72cc2694-64dc-49de-9ac7-b2d100e82590,133
+133,Ryan Mullens,30,Esper Pixie,0be307ad-68bd-4b33-aa93-b2d101564017,134
+134,Jacob Gumowski,30,Jeskai Oculus,81519f75-4acb-4dd7-801a-b2d1013a85b0,135
+135,Heathe Butler,30,Esper Pixie,e98ac278-070e-4ce1-9bfd-b2cc0177a323,136
+136,Jaden Rey,30,Azorius Omniscience,609dcef7-298f-4eca-8962-b2d100f5557c,137
+137,CliffBoyardee,30,Izzet Prowess,b59e9d89-b40f-431a-9ce7-b2d10148d6fa,138
+138,J.D. Emerick,30,Boros Mice,aada8a24-f793-4ce6-9d9f-b2d0014fe2a4,139
+139,Jonathan Denney,30,Zur Overlords,d8ab5964-55d3-4957-bea9-b2ce00552762,140
+140,yoman5,30,Izzet Prowess,2a6b6c4d-fc65-4073-98a9-b2cf01861062,141
+141,Nick Mincucci,30,Mono-Red Aggro,4f91a716-8a88-492f-8527-b2d100006490,142
+142,Dan Milechman,30,Izzet Prowess,a3e82d69-c347-4e7b-a408-b2d000418f74,143
+143,Connor Donnelly,30,Izzet Prowess,bab90b79-777e-4b35-bc1b-b2d10114aac7,144
+144,Nick Marconi,30,Esper Oculus,20fc5bb6-1acf-4b7d-bba9-b2cd0183a1dc,145
+145,Peter Husisian,30,Mono-Red Aggro,9a2dca35-87e7-4a73-a27b-b2d100d8d1b2,146
+146,Aric Godines,30,Jeskai Oculus,c5e27214-1b7b-47e2-960d-b2d0005d22c9,147
+147,robert seder,29,Jeskai Control,edac7977-9150-4a86-83e0-b2d101737e9b,148
+148,Steve Gan,29,Izzet Prowess,e098893d-8f23-4ede-b2cd-b2d100436462,149
+149,amiracles88,28,Dimir Midrange,d3ee470b-456d-4cc2-aebe-b2d1014e7292,150
+150,Connor Laehn,28,Dimir Midrange,09ab1b46-f405-4161-91a0-b2d1014d5c27,151
+151,Tyler DiBattista,28,Sultai Beanstalk,c031307d-847b-4605-a8d9-b2d1017abed1,152
+152,Richie Sledz,28,Jeskai Control,0df5d6e4-a1aa-4700-aff2-b2d0014003db,153
+153,Ammi Obejas,28,Orzhov Amalia,bcadc9c4-7613-44b1-b707-b2d0017c7cb1,154
+154,TavinJ,28,Boros Tokens,ada40684-b217-4b3e-a12d-b2d1015cfaff,155
+155,ZEBR4,28,Temur Prowess,539d49fc-1386-427b-ad09-b2d101055cf6,156
+156,Jesse Piland,27,Boros Monument,7baf784e-798a-4da1-9922-b2d0014f55f0,157
+157,Tariq Patel,27,Izzet Prowess,5aa4d658-975a-41ac-a384-b2d10160ad48,158
+158,Nedragesor,27,Izzet Prowess,b2753de1-ce47-4dd4-a9e4-b2ce016d1542,159
+159,Miguel Chavez,27,Izzet Prowess,952b783e-16aa-4ff3-b8a1-b2d100f90052,160
+160,HarS4,27,Izzet Prowess,6b1d1e4d-c75d-4841-ae3b-b2d0016bd33c,161
+161,Brian Zilles,27,Jeskai Oculus,de16c96c-ea67-4359-8207-b2d100b9ee4e,162
+162,Zachary Moore,27,Zur Overlords,9695d796-9cb6-437c-b168-b2d1015de317,163
+163,Dexter Stinson,27,Izzet Prowess,ac245cc9-07ce-4ec8-b69c-b2d1007ba3a7,164
+164,Justin Brickman,27,Izzet Prowess,99959d48-7297-4a75-9892-b2d101544439,165
+165,Isaac Smith,27,Izzet Prowess,9626ef3f-8ae0-4944-9d86-b2d100f2b70b,166
+166,Mikey Bishara,27,Izzet Prowess,9c1ebf81-e849-4479-bde6-b2d00055a12c,167
+167,Mitch Sachs,27,Izzet Prowess,b23d86c1-9e83-4554-91ce-b2d100435095,168
+168,Paul Green,27,Izzet Prowess,3b396ef9-1a0d-4c22-8272-b2d100e5cf4a,169
+169,JaajWiiw,27,Jeskai Control,dbdc58b1-7de0-4c87-a5ff-7cf5acfa9381,170
+170,Kellen Ropson,27,Dimir Midrange,e0871456-6e28-4798-9acb-b2d100d0c43f,171
+171,Pieter Tubergen,27,Izzet Prowess,3e92fef5-9e81-4769-8a93-b2d1011c84e4,172
+172,justKenneth,27,Zur Overlords,4fd8bbe8-5d42-4ced-92eb-b2d101401fca,173
+173,Eric Liu,27,Jeskai Oculus,ae85ddfd-ba05-4c04-abc7-b2d000b72771,174
+174,Drew Kobus,27,Abzan Pixie,99694ca2-8fbe-4249-9baa-b2d1018a305c,175
+175,Tingfeng Wan,27,Temur Otters,4d3f5bf0-b629-42aa-9cf9-b2d000b47f0c,176
+176,Dominic Harvey,27,Zur Overlords,d7fd369d-aa1f-41cf-bfc2-b2d101780d77,177
+177,Oliver Mason,27,Dimir Midrange,f4e8b99d-87f5-4483-89fa-b2d100178f49,178
+178,Christopher Sheppard,27,Mono-Black Demons,80ab09bb-9d37-4b73-a642-b2d10015a307,179
+179,Devon Straub,27,Izzet Prowess,f0c4b0fb-d4c6-4e74-aab1-b2d1017a9148,180
+180,Levi Gaines,27,Izzet Prowess,09657c32-15e5-46e8-bef1-b2cb01594d41,181
+181,Eric Hennig,27,Zur Overlords,25bc73eb-59b1-42fb-8730-b2d1003a6eb9,182
+182,Justin Blackburn,27,Dimir Midrange,64703a35-33bd-4fb4-8008-b2d1012b9232,183
+183,Neil Estrada,27,Izzet Prowess,edce4819-7fe1-4bdf-be2a-b2d0013e6f14,184
+184,Robert Hayes,27,Izzet Prowess,039fbc23-168d-43fd-9882-b2d1016ec1d8,185
+185,Felix Grezes,27,Izzet Prowess,39586426-3ceb-40a7-b38c-b2ce015b5605,186
+186,David Boucher,27,Mono-Black Reanimator,608fbe61-9d67-4511-a1ad-b2d101354dc1,187
+187,John Shoemaker,27,Rakdos Reanimator,587610f7-26e0-4ece-bd54-b2d1000550b5,188
+188,John Johns,27,Jeskai Oculus,7d59ea0a-5544-4c3a-ad7d-b2d100f41f67,189
+189,Spencer Warburton,27,Jeskai Oculus,e527b287-19a4-4322-9929-b2d10148a8d0,190
+190,Victor Hawkins,27,Izzet Prowess,30a8fd10-d2d1-41b3-8c2a-b2d100f5ce86,191
+191,Kaden Ford,27,Dimir Midrange,222d3209-dd79-4dfc-86aa-b2b7005e48ed,192
+192,Alexander Gabriel,27,Mono-Red Aggro,7e017aea-70aa-44e6-a8dc-b2d101091b58,193
+193,Joby Parrish,27,Jeskai Control,84782696-e0a0-49f3-99b9-b2d10107a75e,194
+194,Richard Hoxie,27,Izzet Prowess,21772aff-6015-43d1-bb9d-b2d00185a0e6,195
+195,Chris_K,27,Izzet Prowess,501b54d1-c6f9-43fa-97b8-b2d00181b6df,196
+196,Gustavo Colon,27,Jeskai Control,196976c1-55e2-4caa-9b66-b2d10132457c,197
+197,Tyler Steinwand,27,Jeskai Oculus,782d975a-a3e7-4f97-bda2-b2d100041bf9,198
+198,David Pellegrini,27,Izzet Prowess,6232c81f-8d7a-4f2a-bb21-b2d1002e2c0e,199
+199,Adam Edelson,27,Izzet Prowess,99b60929-bed0-4b2a-9298-b2d100491510,200
+200,Robert Pounds,27,Izzet Prowess,e2b735db-f6e0-48cb-9fd9-b2d100c91da6,201
+201,Braeden Bierman,27,Abzan Pixie,aa1aa486-3434-4140-8d63-b2d100d368d1,202
+202,JonahR,27,Izzet Prowess,ea3583ba-6fc9-4127-90e7-b2cf018348ef,203
+203,Steven Haker,27,Azorius Omniscience,f682c402-fbfd-4e70-a74d-b2ca00b1cfaf,204
+204,Adam Eklund,27,Azorius Omniscience,621c140e-266f-47d5-bc33-b2d100cb919e,205
+205,Anders Larson,27,Boros Monument,547d37ec-696f-4f33-a02b-b2d101436848,206
+206,Skeelz,27,Izzet Prowess,2d4e6f6d-de71-4e8a-b03a-b2d101707928,207
+207,Christopher Henderson,27,Azorius Omniscience,31ebd633-2b9d-468f-a488-b2d10123969c,208
+208,Vasilios Morikis,27,Izzet Prowess,8a108ffa-2136-451c-b6c4-b2d1001d9f38,209
+209,Jau-En Shih,27,Zur Overlords,01447094-d325-4a87-9a7b-b2d100727f0f,210
+210,Theodore Jung,27,Jeskai Oculus,6d04a04c-9dd5-4d16-ac8b-b2cf005dbbb6,211
+211,Mitch Kilayko,27,Azorius Artifacts,3ef6bfc5-5e50-4579-bdf2-b2d1017667bc,212
+212,Alfredo Barragan,27,Dimir Midrange,fbfa528f-91a2-45d3-8f83-b2d1015fff8a,213
+213,Drew Iafrate,27,Izzet Prowess,882e48bc-fa66-4723-90c5-b2d0016cda55,214
+214,Adam Taylor,27,Zur Overlords,061395bf-d2f4-4b32-981e-b2d10122ba87,215
+215,Jeff Ebbing,27,Golgari Midrange,586e1cd4-a3c5-46c4-96aa-b2d10026bf9c,216
+216,Zach Pettit,27,Izzet Prowess,41a70152-adb8-467a-80f2-b2d101597af4,217
+217,Allen Wu,27,Izzet Prowess,c8e018b2-3244-42a2-81ba-b2ce01121ae5,218
+218,Jeremy Carrette,25,Jeskai Oculus,151770e9-6914-4839-980c-b2d101345dcf,219
+219,John Ashley,25,Jeskai Control,cebc7340-12b3-4131-ab08-b2cf006bb9bd,220
+220,Brock Sorensen,25,Zur Overlords,a586aa43-2f3e-49f4-932f-b2d0001caeee,221
+221,Kade Cantergiani,25,Izzet Prowess,eb41ed74-7a5c-4a23-9be7-b2d10138036d,222
+222,Wesley Wang,25,Selesnya Tokens,4913f0cd-b967-4860-906b-b2d10037c210,223
+223,Zachary Kagan,25,Azorius Omniscience,513d820d-20a4-4dfb-942f-b2d10174ee22,224
+224,SeaB5,25,Dimir Midrange,a2eedb85-77b8-4f3a-963c-b2d000ebdf3d,225
+225,Johnathan Goanos,24,Zur Overlords,500ef882-97ef-403b-85c6-b2d100dfb15f,226
+226,Matthew Moldenhauer,24,Esper Pixie,a0633b22-1bf5-4b6c-9f73-b2d100057639,227
+227,Matthew Watts,24,Azorius Omniscience,2ad0d577-8e84-4302-beee-b2d0012d80ad,228
+228,Gianluca Privitera,24,Izzet Prowess,a4f82317-09f6-4420-9f3c-b2d1012f2c94,229
+229,Steven Ringer,24,Boros Aggro,43e5d5d5-495b-4b58-b3f9-b2d1015cbf4b,230
+230,Daniel Weiser,24,Izzet Prowess,874c1f51-6370-45cd-acce-b2d1005a7e11,231
+231,Ryan Owens,24,Abzan Pixie,cadb3d82-0e30-4529-afb6-b2d101355e3d,232
+232,walker Metyko,24,Izzet Prowess,587a9b95-3fec-4bf3-97ff-b2d100e189fa,233
+233,Episkey,24,Temur Cauldron,24527d83-27d1-4f1c-af6b-b2d10040e0e0,234
+234,Dan White,24,Azorius Omniscience,2c55792b-5d40-46e1-8610-b2d1002de312,235
+235,Aaron Tobey,24,Jeskai Oculus,f7e4d3f3-31de-4147-9a77-b2d000405db5,236
+236,Heath Vance,24,Azorius Omniscience,d89e75fb-fd35-437e-8cd4-b2d10144e387,237
+237,Jdawg899,24,Dimir Midrange,3df170cf-64b5-448d-9a27-b2d10066d76c,238
+238,Michael Belfatto,24,Orzhov Amalia,f88c8645-a024-41e7-9b56-b2cd016ce057,239
+239,Charles Eiler,24,Izzet Prowess,6f6fbdce-435c-4188-8c30-b2d000f16fb5,240
+240,Freohr,24,Quintorius Combo,d6a41986-d5d0-493f-8a05-b2d001841f88,241
+241,Carter Steichen,24,Mono-Black Demons,b0d0a271-5ed6-4e34-9029-b2cd01277c90,242
+242,Michael Mascilak,24,Orzhov Pixie,0a574110-68af-4a92-b4cd-b2d10107a068,243
+243,John Ramsey,24,Zur Overlords,1b9ea461-11e1-415f-9939-b2d100e22324,244
+244,AustinDickMTG,24,Azorius Artifacts,a4292a0c-3b1e-49df-ae95-b2d10174c90d,245
+245,Mason Purcell,24,Gruul Mice,e66912e2-cc72-4f72-a14f-b2d1002bcccf,246
+246,Michelle Tanner,24,Dimir Midrange,ebc7e783-4529-48e2-90ef-b2d10121ba31,247
+247,Michael McKeague-Foster,24,Esper Pixie,161f9866-dd4a-44c4-8eac-b2ce00ffa5f2,248
+248,Rodney Oller,24,Izzet Prowess,7fd9bc62-7cc7-46d8-8940-b2d1010c34ea,249
+249,jalapenoman,24,Izzet Prowess,8e6c9f64-fa7e-46f8-8ddc-b2d1004c87cc,250
+250,Craig Rocco,24,Golgari Midrange,a66d2c02-abe9-4718-b256-b2d1006c8d85,251
+251,Chris Nguyen,24,Izzet Prowess,19d0dffb-89b4-4d0d-8a1b-b2cc00a841c9,252
+252,Sam Peagler,24,Izzet Prowess,d3ff1e25-9622-4c21-8386-b2d00031af94,253
+253,Tyler Bird,24,Jeskai Oculus,8baddc8a-8d62-41aa-8534-b2d10137734f,254
+254,Eric Hawkins,24,Jeskai Oculus,1075ab92-cb3e-4591-bf2c-b2d1013b278c,255
+255,Joshua Willis,24,Orzhov Pixie,7acdf6ec-6de3-4271-ac54-b2d101033332,256
+256,Dillon Wernimont,24,Jeskai Control,07c2dadb-7e51-4f2f-b419-b2d1015d71e6,257
+257,Patrick Tierney,24,Esper Pixie,a147e1b8-24b3-4a87-98c7-b2d1007c3ebd,258
+258,Tom Strong,24,Izzet Prowess,bbfc9643-266a-404e-b514-b2d10005ebc2,259
+259,Peter Handy,24,Dimir Midrange,37e218af-968e-489b-a156-b2cf011454c5,260
+260,Nicole Dubin,24,Jeskai Oculus,f8289c80-52cc-40c9-b943-b2d001224471,261
+261,Dustin Taylor,24,Jeskai Oculus,6b68825a-4f9a-4d50-aea8-b2d0015b3051,262
+262,Gabriel Clark,24,Dimir Midrange,0a0ca656-9277-4c88-ae66-b2d20019f482,263
+263,ryan slone,24,Izzet Prowess,8ed4a58a-0844-4b8f-9ff6-b2c801145066,264
+264,Marcus Pacheco,24,Mono-Red Aggro,2dedb0d1-8e91-4523-b1e7-b2d1004cc314,265
+265,Andrew Karpovck,24,Zur Overlords,e3884083-5d08-4075-8c8b-b2d101733405,266
+266,Jack Rudzena,24,Mono-Black Demons,a6215914-8ee5-4a56-af33-b2d1016349eb,267
+267,Violet,24,Zur Overlords,37e89c1c-ab51-402a-9d55-b2d10129ffb0,268
+268,Justin Cravy,22,Jeskai Oculus,042c9a8c-ca78-4494-847b-b2d00052aa8d,269
+269,amschock,22,Izzet Prowess,e33a2e78-c185-4419-a856-b2d0016da446,270
+270,David Alexander Gurrola,22,Zur Overlords,f9fa3a3d-4823-40ac-8976-b2d100533536,271
+271,Vikram Kudva,21,Zur Overlords,2d7ef023-e4a3-4fbd-8ca4-b2d10038be43,272
+272,Gryffindor Mishlove,21,Selesnya Tokens,cdd5b392-285a-4db3-919b-b2d1014df5d9,273
+273,Zev Goldhaber-Gordon,21,Izzet Prowess,3d8ddd70-c39d-460c-9898-b2d1001acc54,274
+274,Klassic,21,Selesnya Tokens,c76b9412-59e8-4907-b761-b2c5001e175a,275
+275,Kaleb Weir,21,Mono-Red Aggro,75b71031-995b-40a8-b8d8-b2d1017822eb,276
+276,Ben Bates,21,Jeskai Oculus,300e7efe-7932-43c5-a2dd-b2d10146d087,277
+277,Charles Pierce,21,Azorius Omniscience,748056c8-c864-44e4-960a-b2d0013d0568,278
+278,Nicholas Devantier,21,Jeskai Oculus,5b8789a3-1055-4aff-bb18-b2d000359566,279
+279,nick zechlin,21,Esper Pixie,bf38b881-9c26-4700-9ddd-b2d10157e0c6,280
+280,Taylor Reichel,21,Zur Overlords,c789f0ce-1715-4890-aae6-b2c9017af2ae,281
+281,Kyle Mendoza,21,Dimir Control,693c4be6-e377-4b82-a3ce-b2d000b54121,282
+282,Chris Hamilton,21,Zur Overlords,9c2e6fe2-0c93-48ce-9a4f-b2d1014cbfa2,283
+283,ElAlbertoski,21,Azorius Oculus,7adc0e07-0f4c-4ac1-aaf0-b2d1017a4ec8,284
+284,Ivan Espinosa,21,Jeskai Oculus,606a0330-c439-4bb2-aa93-b2d10147d07e,285
+285,Zach Spors,21,Zur Overlords,7567d380-d846-4f0b-a8ca-b2cd00213027,286
+286,Bill Comminos,21,Jeskai Oculus,19edffe7-6616-4e68-9dae-b2cf0119cd43,287
+287,Harrison Kanfer,21,Zur Overlords,f9610acc-e385-4daf-876b-b2d100010565,288
+288,Andrew Bennison,21,Jeskai Oculus,b9c1b8cd-36bc-499b-a47c-b2d100e7e9e7,289
+289,Robert Vaughan,21,Mono-Red Aggro,8cfb0d61-20e0-42dc-a0a0-b2d100e3f806,290
+290,Robert Wagner Krankel,21,Izzet Prowess,72f0449e-dd7b-439b-bc3a-b2d00030e653,291
+291,Alden Cates,21,Izzet Prowess,b31831d7-dfc0-417e-a771-b2d101625fb9,292
+292,Alex Bannow,21,Izzet Prowess,2eaa5978-98a9-4a66-9ddd-b2d100e39829,293
+293,MontgomeryKyle,21,Izzet Prowess,20a233c1-65e5-4908-84b2-b2d1016bb5a1,294
+294,Nicolas Johnson,21,Orzhov Amalia,cf9437d8-1315-4ca9-9877-b2d100154702,295
+295,rustypotatomsub,21,Dimir Midrange,77f41aef-9400-4475-a5a1-b2d1014decce,296
+296,Andrew Zemke,21,Mono-Red Aggro,837a46e5-12e1-4701-95ac-b2d101616307,297
+297,Darren Rucker,21,Jeskai Oculus,7abfc295-c3a3-4489-9539-b2d10130a9de,298
+298,Joseph Freeman,21,Orzhov Pixie,8c6f90bf-bb82-49a3-8558-b2d1015d5ba5,299
+299,Ben Ejnes,21,Izzet Prowess,8be9e8f7-1f92-4f7a-84d6-b2d1017ac547,300
+300,Levi Basham,20,Esper Pixie,5cc6d388-897a-4a07-a621-b2d1001beb11,301
+301,DarthZear166,20,Orzhov Pixie,ed1b44e1-27e1-4d12-9c02-b2d101295e29,302
+302,Redd Sarmiento,19,Azorius Control,3a3082a0-7771-4c99-97b8-b2d1003ca60d,303
+303,Beau Barnette,18,Mono-Black Demons,5517d07e-db3e-459e-a3f6-b2d101162e09,304
+304,Zevin Faust,18,Abzan Pixie,897b9222-f1af-405a-b867-b2d0000b85b2,305
+305,Thomas Johnson,18,Izzet Prowess,c2985287-ef4e-4ec9-bd0c-b2d1005d0137,306
+306,Brad Phyrexian,18,Temur Combo,bf9f8bdb-762c-448e-b11e-b2d1017194d0,307
+307,Trent Jesionowski,18,Izzet Prowess,3e76941b-7646-40d9-911b-b2d1016247e8,308
+308,Jay Wojciechowski,18,Rakdos Reanimator,1db64302-55fa-4366-a03f-b2d000da55ab,309
+309,Lito Biala,18,Izzet Prowess,a15ab71a-aa3d-456d-a3e8-b2d101428f50,310
+310,Andrew Rexroat,18,Jeskai Convoke,92c0a3f3-ac44-4d14-b465-b2d100ceb77a,311
+311,Joe Leo,18,Mono-Red Aggro,6b1aa3d9-0a88-4b73-9598-b2d00057f60d,312
+312,Wshofner,18,Izzet Prowess,2176f919-f717-4f0c-a02b-b2a7002f0006,313
+313,Daniel Bachhuber,18,Jeskai Oculus,c46230c7-b38b-4e1c-a04b-b2d10130e335,314
+314,Reed Alexander,18,Azorius Omniscience,a75fbb4a-9735-44c6-a4ef-b2d1001d85a1,315
+315,Nick Sherwood,18,Mono-Red Aggro,f8825443-84cb-43dd-bf4d-b2d1012d3101,316
+316,Nick Osterude,18,Izzet Prowess,5090a19e-aac3-4b37-af5c-b2d0000651b3,317
+317,Nathan Steuer,18,Izzet Prowess,78c23eb2-fcb7-4267-8004-b2d1014809b1,318
+318,Omar Valencia,18,Gruul Mice,b551a31f-cdde-4bfa-b86d-b2d100da183e,319
+319,Jeremy Besser,18,Jeskai Oculus,5188bb4e-a823-4d03-b77f-b2d1002dd332,320
+320,Damon DenBeste,18,Jeskai Oculus,2e0a0520-bd47-4797-8271-b2d100e7e453,321
+321,Wappa Hamada,18,Jeskai Oculus,a662aea9-5283-4d7f-8934-b2d10041c042,322
+322,Brett Eischens,18,Izzet Prowess,a28fa799-f4b2-442c-9271-b2d1005cc986,323
+323,Indy Whitaker,18,Izzet Prowess,cbf23585-1dfb-4daf-9bba-b2d101660a3d,324
+324,john armstrong,18,Esper Pixie,524975b0-bc81-4c6a-b549-b2d1015667cd,325
+325,Seyhak Uy,18,Golgari Midrange,506ef616-2c1e-46f8-b77a-b2c5003030db,326
+326,Marcy Franta,18,Jeskai Oculus,bdc45138-07bd-4f4e-a466-b2cf003e22de,327
+327,Jean Baez,18,Jeskai Control,e12655be-7cb9-4ab4-9d26-b2d000eef214,328
+328,River Grace,17,Jeskai Control,b09da688-e6c1-4c34-b2da-b2d10119c9c7,329
+329,Nathan Johnson,16,Mono-White Tokens,a1b426c4-372c-4e28-9ba1-b2ce00e7a136,330
+330,atoad,16,Esper Pixie,e1f6b4ba-ebdb-4898-88a8-b2d1003c3906,331
+331,Ricky Tovar,16,Zur Overlords,471590fe-c0a5-4cbe-bc00-b2d100188aca,332
+332,Gerardo Mendoza Cruz,16,Izzet Prowess,3a424abd-77cb-4185-b3c0-b2d10127680a,333
+333,George Taylor,16,Jeskai Control,ab8f2ab0-d9be-4db9-b4cc-b2cf00a19ad2,334
+334,Chad Kay,16,Gruul Mice,ddded5b5-e09f-45d8-9c64-b2d100df76a5,335
+335,Sam Ng,16,Izzet Prowess,ea075232-e51d-41d4-8a9a-b2d1014ab4a7,336
+336,Zachary McMicheaux,16,Jeskai Control,7f35ef66-7425-4c1b-a19f-b2d1004de0a0,337
+337,James Widener,16,Zur Overlords,22e01a21-c9c7-45ec-b781-b2d100f072af,338
+338,Korgoth,16,Azorius Control,c0ccf4cc-1ce6-43dd-8e20-b2d1016ac79c,339
+339,Terry Stratton,16,Zur Overlords,0b79b9fa-4db6-4276-934c-b2d1016b07f2,340
+340,SoyYossarian,16,Jeskai Control,ad5d995b-579d-45db-86e2-b2d10158e224,341
+341,Jack Forbes,16,Zur Overlords,653d061d-8cc1-4cb3-b241-b2d100aa9242,342
+342,Grae Gadzinski,16,Jeskai Control,1c9bd8d4-987a-4e83-82a1-b2d101062029,343
+343,Andriy Boyko,15,Izzet Prowess,3ece4049-8279-48a4-aadf-b2d100515632,344
+344,Samuel Potter,15,Izzet Prowess,fce6076d-bd9e-4d7c-bc8e-b2d1015d7f55,345
+345,bcn1996,15,Izzet Prowess,48ee94f4-e4cc-4a0b-a158-b2d1011ab5e2,346
+346,Ryan Reynolds,15,Izzet Prowess,c97f2cb8-7c18-4397-bfad-b2d00171ac7b,347
+347,Carson Wolf,15,Dimir Bounce,33a24456-58ed-472b-b25d-b2d10016d4e9,348
+348,ERIC GRAY,15,Izzet Prowess,f9baf091-cce7-460f-a48b-b2d10120d8fc,349
+349,Jarvis Yu,15,Izzet Prowess,b28c1197-ad1a-49f0-ad9d-b2d100b67d75,350
+350,Ted Loewenthal,15,Jeskai Oculus,983655ce-c617-49ad-949e-60dcdce47e61,351
+351,Marcus Frederick,15,Izzet Prowess,0e1c3116-1e6e-400b-a405-b2d200d1e853,352
+352,Jason Cornell,15,Izzet Prowess,c0d56f03-85bb-4e2d-b024-b2d0001a9b82,353
+353,Joseph Gearlds,15,Orzhov Pixie,5802a95b-dbb3-46a1-a24d-b2d1017db249,354
+354,Miles Davis,15,Izzet Prowess,2042c303-6848-47d7-9f45-b2d10156f15c,355
+355,Kasey Jarvis,15,Izzet Prowess,2cd8d0d6-f479-477e-94ef-b2d100fdf9ff,356
+356,Matthew Bond,15,Izzet Prowess,c76655d3-7dbb-4102-a057-b2d101381196,357
+357,Sylvie Sibila,15,Jeskai Oculus,ddf7242c-f822-468e-96bf-b2d101565ba5,358
+358,JodyK,15,Azorius Omniscience,8b42d6cf-fa0c-497a-90c9-b2cf00649745,359
+359,Gavin Smith,15,Izzet Prowess,5571ed9e-1880-4521-a500-b2d100f01a4f,360
+360,sdh101,15,Jeskai Control,31d46970-5e53-4e87-9848-b2d1014c191b,361
+361,onionandgarlic,15,Orzhov Pixie,f5089e7d-2d66-4ecf-9175-b2d10107bdee,362
+362,Justin Underhill,15,Mono-Red Aggro,4b2209bf-5be3-442a-ba47-b2d1016941e2,363
+363,Josiah Hamilton,15,Mono-Red Aggro,4cf4b465-147e-46f8-a0b7-b2d101083a57,364
+364,Joelle Rinkol,15,Gruul Artifacts,25f9dfbf-64c8-474b-b54d-b2d101773483,365
+365,Jerret Rocha,15,Dimir Midrange,8d7b24f9-d55d-4471-8de8-b2d101292725,366
+366,Mreyes,15,Izzet Prowess,fc5668e5-23e7-47e6-a682-b2d1016c7693,367
+367,Chris Conners,15,Zur Overlords,c3796b1a-95c9-4e7d-a3ac-b2d1016725f8,368
+368,Alexander Soderberg,15,Izzet Prowess,46f3f223-0d55-44b6-a292-b2d10164c34a,369
+369,Fernando Flor,15,Jeskai Oculus,b9ea6c23-6686-403b-85d2-b2d10050b56f,370
+370,Nickolas Smithmyer,15,Azorius Omniscience,f98ee27e-0c11-4117-904d-b2d10014011a,371
+371,Reed Johnston,15,Izzet Prowess,ebe9d11b-f17c-4884-891e-b2d101467663,372
+372,Nolan Chaney,15,Dimir Midrange,bf23538c-92aa-4427-a5b3-b2d0005a2fa0,373
+373,Ramon Santos,15,Izzet Prowess,2300cc15-f222-4696-b303-b2d10029ef89,374
+374,David Gattis,15,Izzet Prowess,389eae1c-fbbe-4504-860c-b2d1017031f6,375
+375,Richard Tynan,15,Mono-Red Aggro,f4409d03-0684-443b-806c-b2d101656ce2,376
+376,Garrett Askin,15,Jeskai Oculus,6c7d5242-c0a0-4710-8dcd-b2d10136cf06,377
+377,Geoplatymus,15,Mono-Red Aggro,393a2fb7-8546-414f-a656-b2d1016a7049,378
+378,Nick Hamilton,15,Jeskai Oculus,82ae71ac-c88f-493a-9ca6-b2d1015752f8,379
+379,Elle Ashby,15,Jeskai Control,762a5c2d-4220-4f81-8478-b2d10024e752,380
+380,Morrie Cunningham,15,Jeskai Oculus,7ce973ca-108c-4013-b0b0-b2cf01202519,381
+381,james dunavant,15,Izzet Prowess,a5cca243-bd87-4e73-81cc-b2d10149ad70,382
+382,Bradley Schlesinger,15,Izzet Prowess,9044ae49-3e1f-4a94-9226-b2d1015f82ca,383
+383,Jake LaBrado,15,Izzet Prowess,135e8b37-797c-4b0a-81c6-b2d1011c26f7,384
+384,Anand Kinra,15,Jeskai Oculus,91e5368d-263d-44aa-a32a-b2d101773e4b,385
+385,Sol Malka,15,Orzhov Pixie,8798ec5b-6b1c-4d11-8cb6-b2d001875a7e,386
+386,Justin Fink,15,Azorius Omniscience,d216aae1-dc01-4cfb-be62-b2d101146252,387
+387,ULT888,15,Izzet Prowess,3cf06c85-9657-4912-9d2c-b2d10147bd2d,388
+388,Dan Kamvakis,15,Izzet Prowess,8955bf1d-935f-4c3d-a110-b2d1004b3206,389
+389,Austin Graham,15,Izzet Prowess,1f7cb7bb-b10a-484e-9cd8-b2d1016dee8d,390
+390,Liz Lynn,15,Orzhov Pixie,b3aa8b44-bd53-43a2-b97b-b2ce01290b1e,391
+391,Joshua Hougland,15,Izzet Prowess,d2da5d46-b97e-4346-8336-b2d0001fdf32,392
+392,Nathanael Perigo,15,Azorius Omniscience,eed068e0-4358-4d33-b812-b2d100f2de3b,393
+393,Vincent Bi,15,Azorius Omniscience,8f934e7b-af3f-4bdb-91b9-b2d000e44d87,394
+394,Kevin Patlis,15,Jeskai Oculus,4e934768-42b6-48db-b6d8-b2d1011fd65b,395
+395,Leonard Routh,15,Azorius Aggro,fe095cd3-d387-430e-b38e-b2d10149eb2f,396
+396,Jacob Havard,15,Mono-Red Aggro,fe349948-ea0e-4e47-86ca-b2d0011be6ff,397
+397,Josh Lantz,15,Esper Pixie,d8283628-7e1c-4504-891d-b2d100698a0e,398
+398,Alex Hill,15,Izzet Prowess,ebbe0873-60c6-4c12-aa1f-b2cf0182ded4,399
+399,Isaiah Geer,15,Izzet Prowess,c89006cc-308c-4209-b341-b2d10133b9b3,400
+400,Ross Durland,15,Orzhov Pixie,abe76ea2-72f8-4007-aaec-b2d00116251b,401
+401,Brian Hodge,15,Jeskai Control,0c90c318-5317-456f-8f66-b2d100eb9476,402
+402,Mack Endress,15,Izzet Prowess,0fb21499-f461-415c-a115-b2d1013c1a8e,403
+403,Jordan Selesnick,15,Izzet Prowess,2e97dc21-6c6a-4a20-a1ca-b2d101736952,404
+404,Derek Blaiotta,15,Izzet Prowess,9302b1f1-2dc1-4bae-a62a-b2d101319cca,405
+405,Will Krueger,15,Jeskai Oculus,24f49101-0f17-4f42-840b-b2d101265b9b,406
+406,Guillermo Mercado,15,Izzet Prowess,830c5af5-39a9-4a49-8318-b2d10048c3ac,407
+407,Ally_86,15,Izzet Prowess,3a6d91e9-19c2-4088-8132-b2d101312ac5,408
+408,Christopher Baumann,15,Golgari Midrange,8e1a398e-6f87-416c-9c45-b2ce0187f426,409
+409,Patrick O'Boyle,15,Izzet Prowess,2e2bb43c-1ff6-40e7-9ddb-b2d1013d489b,410
+410,rick schaffer,15,Azorius Omniscience,987dc37a-6ffe-4e4d-8475-b2d1011a6770,411
+411,Derek Munden,15,Jeskai Control,b437c9de-c2c7-4c46-bda0-b2d1014da4eb,412
+412,Charlie Mellor,15,Mono-Red Aggro,69294c35-e034-4117-be60-b2ae012b1891,413
+413,Chad Leiske,15,Jeskai Oculus,bcb0cc67-cb8e-4b45-bc20-b2d1016fadc9,414
+414,AleL22,15,Izzet Prowess,2648791c-94eb-4b1f-a6dc-b2d10141ee07,415
+415,Justin Schabel,15,Jeskai Oculus,6e4fdc1a-9fb7-4566-b9c7-b2d10168ab04,416
+416,Matt Sims,15,Jeskai Oculus,8ba8fc33-e6d8-4683-9eee-b2d101751cdd,417
+417,Matthew Holderness,15,Jeskai Oculus,0f6a0896-c412-42a7-848b-b2d101143603,418
+418,Robert Moss,15,Mono-Red Aggro,b561ad26-ff9e-4b4a-9df0-b2d1014ba38a,419
+419,Austin Ortiz,15,Jeskai Control,6c743d9d-744b-41bb-862d-b2d10029557e,420
+420,Greg Dyer,15,Izzet Prowess,33baaff8-da69-41dd-8024-b2d100ea2a63,421
+421,Scott Gartner,15,Izzet Prowess,7b95aecd-7039-4cc6-bca1-b2d101758291,422
+422,austing2314,15,Mono-Red Aggro,f1ddf7ab-3fb4-4513-8624-b2d1003aeae8,423
+423,MarcDelPriore,15,Mono-Red Aggro,47646804-7ea7-4242-aea1-b2d10161f0e6,424
+424,gilfordvj,15,Izzet Prowess,8ecdda0a-bf54-4442-8ac2-b2d1012a4414,425
+425,Joel Brook,15,Izzet Prowess,8bb5356c-c5a3-40af-a627-b2d10167397e,426
+426,orry suen,15,Izzet Prowess,20a2cb67-f396-4017-bfc8-b2d100403cee,427
+427,Emil Hartter,15,Boros Mice,4db44ff6-c74e-4f5c-bf02-b2d1016eacb3,428
+428,Anibal Z,15,Izzet Prowess,1efc3296-7f04-4395-ab85-b2d001252bf5,429
+429,Machaca,15,Azorius Omniscience,86f694c6-da74-416c-981f-b2d10152323a,430
+430,Zachary Singer,15,Jeskai Oculus,a0a40830-93c0-450d-8fd1-b2d10051a991,431
+431,Alex Vey,15,Golgari Midrange,6c8f5591-5259-493c-b281-b2d1001896d6,432
+432,Brendan Hsu,15,Jeskai Oculus,b6fcbc38-83a1-465d-b1f2-b2d0006da607,433
+433,Amanda Cassity,15,Mono-Red Aggro,1431ca00-c1f4-472b-94d7-b2d1012e7d96,434
+434,Newton Cheng,15,Izzet Prowess,fa5af2b1-5a2d-420e-8dd1-b2cf00414c7b,435
+435,Doug Gomez,15,Mono-Black Demons,7a07c0a9-175e-497d-9a9b-b2d0015e4ca1,436
+436,Jared Brock,15,Izzet Prowess,42e636c2-3a04-42ad-93a2-b2d10043b862,437
+437,Benjamin  Taylor,15,Azorius Omniscience,9fa76124-4db0-4c7a-9cb8-b2d1010051e5,438
+438,SamD,15,Golgari Midrange,dadc5061-1cbd-4372-b407-b2d1005fbcdb,439
+439,Keganfall,15,Izzet Prowess,84e8df38-f555-4670-b3bc-b2d1011c5e53,440
+440,Anthony Lundquist,15,Izzet Prowess,f894dfaa-686f-4734-90fc-b2d000692953,441
+441,Sebastian Moreira,15,Jeskai Oculus,5433a7b0-c53e-49d8-9f9a-b2c9003bd9be,442
+442,Tristan Wylde-LaRue,15,Izzet Prowess,2fcd9d85-57e2-41de-bfe2-b2d1017a45b3,443
+443,Riley Bennett,15,Golgari Control,47a4d3a5-8278-405a-ac73-b2d1016e08d7,444
+444,Justin Johnson,15,Jeskai Control,495c7f43-5cd3-4bed-a9cb-b2d10157482b,445
+445,DerelictMamzer,15,Mono-Red Aggro,bb88015d-ce7a-4fd2-b535-b2ce00ed154f,446
+446,Michael Li,15,Izzet Prowess,23e2de36-5792-409f-9ef8-b2d0006235b9,447
+447,Brian Cusick,15,Azorius Omniscience,c87d5369-771d-4f6f-ac47-b2d100a0e694,448
+448,Corey Baldridge,15,Gruul Delirium,70ceb65f-65ff-4634-9a31-b2d101694d82,449
+449,Jeffrey Chang,15,Izzet Prowess,53a2c120-e250-4cb0-bcfe-b2d0013fe858,450
+450,Dominic Stryker,15,Azorius Omniscience,c2a70639-47a8-4b8a-87e8-b2d000ec8e62,451
+451,Tucker O’Brien,15,Mono-Red Aggro,444534dd-d027-448c-a71e-b2d0011baaa8,452
+452,Aaron Miller,15,Azorius Omniscience,ef5c0293-ca75-4454-a3f8-b2d0015334d7,453
+453,KodywithaK2,15,Orzhov Pixie,5519dfc8-0fed-45fd-9dd5-b2cf0166ee1b,454
+454,Brandon Phan,15,Mono-Red Aggro,363184f7-a6d1-4afd-aad3-b2ce00f79b3d,455
+455,Crystal  Felts,15,Azorius Omniscience,a63ebace-972e-49c8-a758-b2d10128b9f8,456
+456,Sky Bauerschmidt Sweeney,15,Izzet Prowess,592ffd25-0402-4e93-a122-b2d1010410c6,457
+457,Orlando Lucas,15,Dimir Midrange,511a2dd4-651b-460b-8993-b2d1014fbc98,458
+458,Scott Doolittle,15,Esper Pixie,562d8e72-8de6-49db-9a97-b2d100e8a060,459
+459,Zhao Li,15,Azorius Omniscience,8fea15b4-abb9-437e-ab98-b2d1014036fb,460
+460,Jonah Calvo,15,Izzet Prowess,0827a7fb-ea3e-4a11-a047-b2d100ec3246,461
+461,Dylan Morgan,15,Dimir Midrange,a573d1b3-14e2-462d-aa01-b2d10179ab0d,462
+462,Manaray,15,Izzet Prowess,c7086939-7283-4e2c-929e-b2cf000aae85,463
+463,Raymond Menkov,15,Zur Overlords,b37509a6-280d-4c8f-a667-b2ca014dbf46,464
+464,Lorenzo Iuculano,15,Azorius Omniscience,3c815e28-9e66-4972-a629-b2d001698499,465
+465,Tyler Whitman,15,Izzet Prowess,f64bfd1b-ab9f-4806-a086-b2d10122f256,466
+466,Kyle Lewis,15,Izzet Prowess,8c282fa2-4c02-4524-877e-b2cf01857deb,467
+467,Tiffany Calandro,15,Izzet Prowess,b5ed0b28-dd1a-4245-8084-b2d1016e4663,468
+468,BobBrummett,15,Azorius Omniscience,6328f1aa-d09e-4809-801a-b2cf014164cc,469
+469,Edward Drew,15,Gruul Mice,48059997-bb93-42cb-8afd-b2d10158ce67,470
+470,Kevin Farrell,15,Jeskai Oculus,ade16cb4-0324-4b66-b12b-b2cf000c4548,471
+471,NathanielA,15,Golgari Roots,a89bd279-8c2d-461d-8b76-b2d10175936d,472
+472,Timothy Gruneich,15,Jeskai Oculus,a57d6d2f-cea4-42e3-9362-b2ce00d5a019,473
+473,Christopher Watson,15,Gruul Cauldron,d19ada22-70dd-43ec-b112-b2d1016fa8bf,474
+474,Pedro da Silva,15,Jeskai Oculus,dc47aa65-3081-4f5e-abcb-b2d10145012b,475
+475,Aaron Mindt,15,Izzet Prowess,303556a0-6b53-4793-b32f-b2d100f2625d,476
+476,Eric Pitts,15,Izzet Prowess,ee8872ea-485b-4fc5-80f4-b2d10168ef8e,477
+477,Evan Weber,15,Jeskai Oculus,6d3d22d9-80da-47f1-9f03-b2d100143b9e,478
+478,Daniel Lee,15,Izzet Prowess,d0d41eff-6324-4293-a93a-b2c90095e636,479
+479,Seth Black,15,Jeskai Oculus,a0feb110-23ab-4d30-9e61-b2d1002324ba,480
+480,AlanI,15,Jeskai Oculus,ab80af30-2cd1-40f7-ac93-b2d10179449f,481
+481,Nick_Howard,15,Azorius Omniscience,a434a4ee-6fc5-49f8-b41a-b2d0003e859f,482
+482,Brenden Hill,15,Izzet Prowess,5d65dc9c-7318-4495-afd5-b2d100c3695a,483
+483,jimbolaya,15,Esper Pixie,cfec723e-d049-4c41-a335-b2d101227bba,484
+484,JayW,15,Izzet Prowess,d11e40e1-5caf-4b8b-8aa8-b2d101550777,485
+485,hhearn38,15,Zur Overlords,ad353346-67f6-420c-9e61-b2d1016d2f19,486
+486,Colten Fowler,15,Jeskai Oculus,3c582460-6831-479e-9fc9-b2d1014c595f,487
+487,BenjiR,15,Jeskai Control,33783bdc-3624-43f8-8294-b2d100225c9f,488
+488,sbatatt,15,Esper Pixie,4ea1b699-116f-48f1-ac86-b2d1002942df,489
+489,Christopher McDaniels,15,Mono-Black Demons,0da6ceef-e147-45d5-b9cd-b2d10132cca0,490
+490,Andrew Schneider,15,Jeskai Oculus,2c74b85e-f27b-4cf7-8c25-b2ce0119740e,491
+491,Cooper Johnson,15,Izzet Prowess,6111301f-182d-48c2-a55e-b2d10108475a,492
+492,Matt Akiyama,15,Jeskai Oculus,059835b8-ee7d-4293-a22d-b2d10173864c,493
+493,Liam Etelson,15,Orzhov Pixie,72e6a5fc-a30b-4d39-a3f7-b2d10010af2d,494
+494,Greg Michel,15,Izzet Prowess,21077df4-88fd-47de-bc6a-b2d1006fa972,495
+495,Joseph Nunez,15,Izzet Prowess,0afa72ad-82bb-4d3e-ac40-b2d00035120f,496
+496,Sam Vinitsky,15,Jeskai Oculus,f5f38ef0-1cfd-4184-805b-b2d1014dd430,497
+497,Brent Waggoner,15,Azorius Omniscience,2b95aee9-6752-4cdb-b920-b2d1016ef4a6,498
+498,Sean Daly,15,Mono-Red Aggro,a0328748-de07-4af6-83ff-b2d1010ad357,499
+499,Anthony Boxleiter,15,Jeskai Oculus,13f3a033-6067-49d4-b6b9-b2d1013e2247,500
+500,Matthew Farley,15,Jeskai Oculus,9ee0a29e-3dc7-49e5-96b7-b2d10166c2f2,501
+501,Prez Kuhnke,15,Jeskai Oculus,a40f6a89-8a17-4146-b83c-b2d1011bb5d6,502
+502,pfeng,15,Mono-Red Aggro,3415a7c9-6b56-4e4e-8ed7-b2d00037c488,503
+503,mspeil,15,Dimir Midrange,d7e6702e-9896-44e4-b853-b2d101618bdb,504
+504,Dana Fischer,15,Izzet Prowess,b0370c56-16b4-4723-a45e-b2d101196b15,505
+505,Jeff Schultz,15,Gruul Mice,86060480-6015-419b-9220-b2cf00548ff5,506
+506,Julian John,15,Izzet Prowess,410292e3-1d8d-4697-9baf-b2d10172abe1,507
+507,Matt Ludwigson,15,Izzet Prowess,6b1bd7e8-1f01-48fd-b99a-b2d0013431e8,508
+508,Jon Wilkins,15,Orzhov Pixie,b29d6313-7518-4bd2-9f54-b2d10057f911,509
+509,Sam Powers,15,Azorius Control,9887018a-a01e-49ed-a82e-b2d10174f6a8,510
+510,danielfayecpa,15,Azorius Control,d1cd5784-3b70-450f-bd83-b2cf018b25a6,511
+511,Matthew Pence,15,Abzan Pixie,60c8d195-3586-4663-957f-b2cf004b7b66,512
+512,Viet Tran,15,Golgari Demons,8bff4106-208d-4e9b-9d0d-b2d000e9421c,513
+513,Dakotajmack1996,15,Orzhov Pixie,d8eb4492-2ad8-408f-a112-b2d10139da16,514
+514,Joe Briones III,15,Izzet Prowess,25586926-c637-466e-89b6-b2d1011dfe49,515
+515,Laurence Lo,15,Azorius Omniscience,f4faff3a-12bc-41f2-9b28-b2d101664a6c,516
+516,Mason Bakken,14,Azorius Control,e18a97fc-f580-4456-901b-b2d10169a77b,517
+517,Josue Hernandez,13,Orzhov Pixie,6093b462-d8a8-4040-b9fd-b2d1001b2aa7,518
+518,PhyrexianJohn,13,Jeskai Control,700260ba-85b4-4b01-b665-b2d0000f4cb8,519
+519,Ardit Kacani,13,Dimir Midrange,97dd46f4-a9d4-4871-b554-b2d1014b6872,520
+520,Charlie Trochlil,13,Mono-Red Aggro,612b8cb2-c801-4d1e-baca-b2d101576930,521
+521,ogstepheng,13,Jeskai Control,9793de10-0a6b-4571-bad8-b2d10176c857,522
+522,Douglas Bailey,13,Zur Overlords,d7004c1c-3c2e-4d5c-bbed-b2d10136d5c1,523
+523,Lee Webb,13,Izzet Prowess,de662302-acc5-418c-81d4-b2d10180078e,524
+524,jws,13,Jeskai Oculus,e801bc13-7861-4bdc-b11d-b2cb010024c2,525
+525,Zachary Porr,13,Izzet Prowess,4c62d859-8097-43a5-8089-b2d00159a0eb,526
+526,Warro,13,Gruul Mice,05a1e00f-8cb6-4a3e-80e2-b2d1014063a0,527
+527,Joseph Marut,13,Mono-Black Demons,0eed1256-180f-4d39-a855-b2d100e3d723,528
+528,Bliss Bizzell-Hand,13,Zur Overlords,1480577e-bbdf-4008-91c9-b2d101260a54,529
+529,Bryguy110,13,Jeskai Oculus,df0512fb-68fa-4709-90f3-b2d1010c1317,530
+530,Dylan Feeman,13,Orzhov Amalia,1c06dadf-08a9-4457-9077-b2d00185685a,531
+531,Jon Beitler,13,Golgari Beanstalk,442742ab-401a-4e52-b349-b2d1001941e3,532
+532,woodardgregory,13,Jeskai Oculus,f6c1dcfe-1682-46e7-9991-b2d0017229d6,533
+533,jsegawa,12,Jeskai Oculus,2e64e349-6b70-47fc-b4d1-b2d1014a38f6,534
+534,Noah Brandes,12,Izzet Prowess,8372fa2f-496c-4b24-b060-b2d10145554c,535
+535,Thomson Coffey,12,Mono-Red Aggro,a3f64db6-88f9-4b99-8b36-b2d1002a0e7b,536
+536,Dairion Hartshorn,12,Izzet Prowess,1ae382e6-71b9-435a-9f3a-b2d10177009a,537
+537,Benjamin Hamilton,12,Mono-Black Demons,9bca7d9d-841f-46c9-8609-b2d100907e4e,538
+538,Derrick Winburn,12,Mono-Red Aggro,ce110391-f89d-40ad-9823-b2d1013ef89e,539
+539,Zoe Elisa Clapacs,12,Mono-Red Aggro,a9bbc1e6-e6d4-42ef-a697-b2d100f535a4,540
+540,Josh Gilchrist,12,Izzet Prowess,8b95e1ec-6684-4ef7-92d9-b2d1016db3c8,541
+541,Ben Zhang,12,Izzet Prowess,b2a1f9e8-1154-44f7-8941-b2d100dbe299,542
+542,Ethan De Luna,12,Izzet Prowess,b53237ab-af8d-4265-b5d0-b2d101058667,543
+543,Max Hersch,12,Izzet Prowess,64de5300-8e71-4177-92f2-b2cd014f3ce4,544
+544,Benjamin Hewitt,12,Izzet Prowess,fc2cb739-006d-48a2-9df8-b2d1016dc923,545
+545,AJSimon,12,Mono-Red Aggro,8f8bb5aa-fd8b-4248-b791-b2d10130ad94,546
+546,TylerW,12,Mono-Red Aggro,eb5c1a11-164b-4c06-afd0-b2d1015972e2,547
+547,Bryan Rockenbach,12,Zur Overlords,874f3361-aaaf-4574-a0e6-b2cf018451c6,548
+548,Cody Jager,12,Izzet Prowess,d1abf3a1-c5e3-4238-8b47-b2d1014f33cd,549
+549,Jonathan Hobbs,12,Jeskai Oculus,cd94cad6-6845-451c-be40-b2d100264e50,550
+550,Erik43,12,Izzet Prowess,d1d726eb-e21f-48c3-9429-b2d100466ce6,551
+551,Thomas Graves,12,Azorius Control,7225c793-1614-4b96-8478-b2d10110b5ef,552
+552,Cael Lindsey,12,Jeskai Control,43af5bde-1059-4c82-814d-b2d10156afd6,553
+553,GregM,12,Izzet Prowess,32232f43-4235-436d-9e0b-b2d100fbd0f0,554
+554,MastuDenton,12,Gruul Leyline,76d51eee-6c41-4ded-be2d-b2d1016789b7,555
+555,domc6,12,Gruul Aggro,6d26bab0-4645-480a-abee-b2d1016cc0ed,556
+556,Ryan Hayes,12,Izzet Prowess,df55b5be-3424-441f-8b05-b2d0013ae7c3,557
+557,Nick Ingram,12,Jeskai Oculus,8410bdc8-5209-4840-9343-b2d101694d40,558
+558,ryan bowen,12,Izzet Prowess,384c9f06-9a0c-4db0-885b-b2d1011c0dd3,559
+559,Jeffrey Kruchkow,12,Azorius Omniscience,7838fe2d-5503-4641-967c-b2d0014f228d,560
+560,Matt Tumavitch,12,Izzet Prowess,0e0bf00a-0a96-49cc-a092-b2d100e96e14,561
+561,Tyler Novak,12,Jeskai Oculus,dd2b3403-ea40-4819-b2d3-b2d10148090b,562
+562,Grayson Nemets,12,Izzet Prowess,cbddd208-42f1-4f9c-876f-b2d10152f2b3,563
+563,draftoholic,12,Izzet Prowess,321caed8-d709-44d6-a3db-b2d1015fdf6b,564
+564,Trenton Hawes,12,Izzet Prowess,faf9791b-4353-423f-b784-b2d101584eb3,565
+565,Chandler West,12,Izzet Prowess,c1f67f05-5d58-4500-9e99-b2d10059dc92,566
+566,Joseph Hunt,12,Izzet Prowess,408ff97f-a2fc-460b-8e8d-b2d100fc5dfa,567
+567,JP Gruchacz,12,Izzet Prowess,c03ff8ee-d07f-4c10-9c21-b2d00035d730,568
+568,Haven Gilbert-Avila,12,Izzet Prowess,531617e5-0a9f-4478-b8ac-b2d1012f6bbe,569
+569,Ryan Kerr,12,Izzet Prowess,2b7a4fff-c0a9-4f3c-8f28-b2d10061ed94,570
+570,wjudson,12,Mono-Red Aggro,d98b2493-774d-4f96-bc2e-b2d101233455,571
+571,Joey Hall,12,Izzet Prowess,0c04a1a2-df00-4198-8023-b2d10130526f,572
+572,Ivan_Draw_Go,12,Esper Pixie,220365ee-25af-4850-96b0-b2cd00261afa,573
+573,Aaronmac11,12,Esper Pixie,f563074e-e54a-4f01-a22a-b2d10007b436,574
+574,Nicholas Lassen,12,Azorius Omniscience,492c13bd-517c-44b9-9873-b2d1013ef316,575
+575,Marc Blesso,12,Jeskai Oculus,9656d7a2-7563-4ccc-b7b1-b2d0002e3b26,576
+576,Stephen Hanlin,12,Jeskai Oculus,337d7ab9-3c5a-4b3b-afd5-b2d100f77264,577
+577,Will Pulliam,12,Izzet Prowess,9600447b-e0e6-44e2-85b0-b2d100323fbe,578
+578,Christopher Kral,12,Izzet Prowess,9693bf39-c396-4473-9dd5-b2d101703840,579
+579,Phillip Langston,12,Izzet Prowess,1be154b6-6dff-49ae-b0c0-b2d10144fd08,580
+580,Michael Nguyen,12,Azorius Omniscience,052263e3-413e-4a80-9d09-b2cf0049d6ed,581
+581,Ethan Dunn,12,Izzet Prowess,add7ea2d-f373-4d31-9b90-b2d100305c9b,582
+582,Aphidae,12,Jeskai Oculus,08a8a9c1-ffeb-4c09-a4df-b2d1016bc08b,583
+583,Lucas Repp,12,Mono-Red Aggro,be91f0ac-6f9b-4abe-8889-b2d100dfbadb,584
+584,Dancypluto270,12,Sultai Beanstalk,876b5b44-e74c-4f60-ae3c-b2d1014be7ac,585
+585,Marcos Acosta,12,Golgari Midrange,63a813a9-84f9-4fa4-84c1-b2d1001fc33d,586
+586,Stephen Gershon,12,Esper Pixie,e9d9d2a2-82cc-4085-9c08-b2d1014fa11c,587
+587,Jeffrey Hipp,12,Boros Mice,743d6200-8c2b-494d-912b-b2d10104db42,588
+588,GideonsGlizzy,12,Zur Overlords,620d7cc8-46b0-4d6a-b422-b2d000580758,589
+589,ThomasLundquist,12,Gruul Mice,2e710cee-2c83-4e08-b6d7-b2d0000f201d,590
+590,Alex Poulosky,12,Orzhov Pixie,42b3e8df-b3ab-40bc-aa55-b2d00041daae,591
+591,Isaac Murray-Stark,12,Izzet Prowess,2c1eab7f-d701-48fc-bd6c-b2d100dbc56a,592
+592,Rien,12,Izzet Prowess,c143699d-bae2-4532-92a2-b2d101781f4c,593
+593,dylanfryer,12,Naya Legends,74074ee8-7af7-43c3-a646-b2d10030631f,594
+594,Austin Silva,12,Jeskai Oculus,78285c71-55bf-44bc-9c56-b2d100147238,595
+595,Mike Jarvis,12,Mono-Red Aggro,3e09e63f-b8dd-41b6-9c67-b2cf00f1b05d,596
+596,landongolds,12,Boros Goblins,bf2de906-72b2-42d8-afe7-b2d000f5566f,597
+597,Dylan Liebert,12,Zur Overlords,c8055f94-d7f0-4121-aded-b2d101732dfa,598
+598,Mason  Wede,12,Izzet Prowess,086abfcf-4786-47ed-b5a4-b2d00002f1cd,599
+599,Azeem Lyons,12,Temur Combo,bdbdeb3c-8420-4030-830c-b2d101030a2e,600
+600,William Grogan,12,Jeskai Oculus,c8fece6b-133c-4742-accc-b2d00189dda9,601
+601,Khyler Fields,12,Golgari Demons,f14e3b17-6240-4be2-aff1-b2d1002db5c3,602
+602,Colton Haas,12,Izzet Prowess,e6614b43-019f-495a-8977-b2d10179a18c,603
+603,Jeremy Wells,12,Orzhov Pixie,f4095a3c-3f0f-4237-91ed-b2d1010cf7ee,604
+604,Curtis Lam,12,Jeskai Oculus,f2f3b27c-d2f1-42ff-befd-b2d1015a66be,605
+605,Daniel Cole,12,Jeskai Control,24ce3307-39af-480d-b6b5-b2d1012d3b33,606
+606,Mickey Cushing,12,Zur Overlords,5f7208fb-6f9d-44e3-b50d-b2d00156a7c1,607
+607,Brett Kroeger,12,Azorius Omniscience,8c02a4df-5c34-4f34-a9e2-b2d001844fea,608
+608,emmaskyeward,12,Esper Pixie,bf2d250b-35da-4a2f-bd9a-b2d101321a75,609
+609,Jacob Koshak,12,Zur Overlords,c98b5030-400c-4182-8d0e-b2d10159845d,610
+610,Steven Jacobs,12,Azorius Omniscience,1a15f69c-ae09-4f23-87cd-b2cf00250e56,611
+611,Kevin Cubr,12,Dimir Midrange,77cc21ec-6410-4e6d-9a67-b2d1011315c2,612
+612,Brian Zeng,12,Sultai Cauldron,1e4141cd-b32e-4987-b22b-b2ce010fa11e,613
+613,Maxx Kominowski,12,Izzet Prowess,1cf361fd-f122-45c4-8b39-b2d1010fb7e9,614
+614,Eli Loveman,12,Jeskai Oculus,8c9e6e45-b951-4ca4-bf6a-b2d0015f472b,615
+615,Robert Taylor,12,Abzan Pixie,4a357a3c-1137-4018-b16e-b2d100519398,616
+616,Holden Wolfe,12,Jeskai Convoke,bd9cc8fa-e031-4d19-9a4a-b2d000fb0afe,617
+617,Patrick Tea,12,Naya Aggro,6b53a1ba-881b-43dc-9173-b2d10117a7e8,618
+618,Jacob Nelson,12,Dimir Midrange,ad6f8685-b7f0-4008-ae5f-b2d10124b497,619
+619,Aleksander Jones,12,Mono-Red Aggro,f841462f-f34a-4844-a262-b2d100c83b36,620
+620,Adam Fischer,12,Izzet Prowess,86991b05-38c7-4468-bcff-b2d1011877c2,621
+621,Sean Hutchison,12,Azorius Omniscience,0a0d543a-b9b0-4d71-abdb-b2cc0184f082,622
+622,Derek Bailey,12,Jeskai Control,0bff23f4-a006-4e55-95dd-b2d1014f6be6,623
+623,Hunter Ovington,12,Jeskai Oculus,b3987393-1f81-4ee7-a5db-b2d10154fbd4,624
+624,Cody Weber,12,Zur Overlords,fe818f19-e492-427b-8757-b2d101748d24,625
+625,Jeremiah Chatham,12,Izzet Prowess,43fb1f80-a10f-46bd-aaad-b2d10153d94b,626
+626,Robert Graves,12,Azorius Control,c2729911-97cd-4b0f-a16d-b2d101112dd9,627
+627,Dyllan Prindle,12,Jeskai Oculus,c0ebe4c6-e943-4101-ac00-b2d100147fc4,628
+628,Naterooy,12,Izzet Prowess,89641008-3f0b-4920-bd21-b2d100253359,629
+629,Festus Resendez,12,Izzet Dragons,85409292-0e90-4d5d-94ac-b2d1016a1489,630
+630,Steve Cassity,12,Jeskai Oculus,92a74091-5df5-474a-9b76-b2d100259dd0,631
+631,Sam Hassebroek,12,Izzet Prowess,cb90b07c-47a6-4323-ba9b-b2d001427f09,632
+632,Jack Hazen,12,Izzet Prowess,837eefce-f609-4d09-a19f-b2d1016d225c,633
+633,Jacob Ballington,12,Izzet Prowess,005383e2-ba2d-477a-a6dd-b2d1014190dc,634
+634,JWKibler,12,Dimir Bounce,98a18496-0e0b-438c-85fc-b2d000e95b72,635
+635,Brandon Chen,12,Izzet Prowess,b927b54c-e9be-4a47-b3d5-b2d100c8e497,636
+636,Jonathon Kohli,12,Zur Overlords,b74bc09c-e523-4be6-9721-b2d1014f28f8,637
+637,Dustin Heuston,12,Abzan Pixie,0d498e9c-124e-47c6-8a8a-b2d1015c21b8,638
+638,Ethan Willoughby,12,Azorius Control,fd5ca69f-44d3-4210-8a2c-b2b40004abbf,639
+639,Fletcher Johnson,12,Izzet Prowess,f2b83873-98a7-40da-bb94-fe57a0121944,640
+640,james mondrik,12,Mono-Red Aggro,fd0c30ce-3b3b-4609-9ff8-b2d10136ece2,641
+641,Zachary Plott,12,Jeskai Oculus,d7422d49-52c9-437f-a863-b2d000521a24,642
+642,poiu45,12,Jeskai Oculus,8cfcdfcc-44c6-4301-b2bf-b2d10162f739,643
+643,Robert Pompa,12,Jeskai Oculus,b0b1e01b-a619-4bc1-a501-b2cf006eb17b,644
+644,Tyler Gomez,12,Zur Overlords,ede5e11d-8dc9-4324-a279-b2d1003f2f9b,645
+645,Kevin Ryberg,12,Mono-Black Demons,dc3e73e2-5698-428b-a79d-b2d1010cff06,646
+646,Daniel Buzzie,12,Jeskai Oculus,4f44a1b5-766f-40d7-ae07-b2d1017576d6,647
+647,MichaelTucker,12,Selesnya Cage,13833ece-3082-4689-8ec0-b2d100132704,648
+648,Kaloyan Petkov,12,Jeskai Oculus,dbbcfed5-af40-49f1-9f70-b2d10139cf5a,649
+649,Jacob DuBois,12,Izzet Prowess,304ae5b0-6129-44ae-b22b-b2d1016dd44d,650
+650,TheOutlawinLa,12,Dimir Midrange,ae1cd127-33c8-4c83-85d8-b2d0017d2c75,651
+651,Joey DiGiacomo,12,Izzet Prowess,27049dc9-e850-4324-b491-b2cf00ec8fda,652
+652,Xero7z,12,Azorius Omniscience,84c2ff91-c298-41f5-a4e3-b2cb0077c66b,653
+653,Alex Hamilton,12,Izzet Prowess,fbe188fb-c465-4af5-9f82-b2d1005774f1,654
+654,MsAngelfire,12,Mono-White Tokens,16f83639-0c9f-4604-9fee-b2d0000c6d07,655
+655,Matthew Carlson,12,Jeskai Control,e22c6272-a3ed-464c-a6f7-b2d1010eb789,656
+656,Chris Dexter,12,Jeskai Oculus,77c6cfc7-8b4d-44d3-9d7e-b2d100e1675d,657
+657,STX_MatthewChoy,12,Azorius Omniscience,344bc0eb-fd21-4f9b-b132-b2d00061a7a6,658
+658,Quinn Tonole,12,Mono-Red Aggro,88247777-c8d4-46c3-8894-b2d1014c0890,659
+659,Saxon Sounakhen,12,Izzet Prowess,f90377a6-da27-4ea3-8fc7-b2d1003cfd01,660
+660,Jack Hermsen,12,Zur Overlords,9ccbbe7a-3db0-4faf-85ce-b2d100f36488,661
+661,Ian Wark,12,Jeskai Control,0dc28aca-086e-48d6-9db9-b2d1005d7a6a,662
+662,Morgan Hillman,12,Gruul Leyline,ed9bdafc-c776-42e2-9332-b2d1008598e0,663
+663,Dustin Doing,12,Boros Goblins,c3c4de42-b5a8-48ee-b593-b2ce010d4b65,664
+664,Zachary Augustine,12,Jeskai Oculus,216627d1-bb3c-407c-9524-b2d1005240f5,665
+665,Kyle Yaroch,12,Azorius Omniscience,67a31cff-027f-4a4d-b032-b2d100e786d6,666
+666,Vale Baker,12,Mono-Black Demons,f6be123b-548b-4f7d-b4d5-b2d101540425,667
+667,Lucas Berndt,12,Mono-Red Aggro,01ad0fbd-443f-4246-8b46-b2cd018aa767,668
+668,gravesjo,12,Azorius Omniscience,cfbf3f50-f5a1-4738-aed7-b2d10168eb0a,669
+669,Garrett McClannahan,12,Izzet Prowess,72c2a2f2-d601-4f5a-ac6a-b2d1014f2b85,670
+670,William Heise,12,Azorius Omniscience,dafeb052-5524-4651-8ed5-b2d1017195d9,671
+671,Nicholas Eadler,12,Izzet Prowess,d6523370-ee76-4ce5-a72b-b2d1015993ae,672
+672,Will Harms,12,Zur Overlords,6593a697-a608-4fe2-b33a-b2d100c7702f,673
+673,Eamon,12,Mono-Red Aggro,f4f86d03-4b64-41bc-a937-b2d1016df551,674
+674,Ryan Botting,12,Jeskai Oculus,9f0b11c5-71df-4bbb-a3b8-b2d10015cbdc,675
+675,George Goanos,12,Zur Overlords,b8530aca-5dc2-4909-84c2-b2d00147f522,676
+676,Gavin Perry,12,Jeskai Control,d6aa278b-2088-4a27-a468-b2d1012b9fe4,677
+677,Joshua Floro,12,Izzet Prowess,a868bf62-d379-42e2-82b6-b2cf015f8749,678
+678,historius,12,Jeskai Oculus,9ef99ffb-da86-4140-8871-b2d10060e8e7,679
+679,DamianPhyrexian,12,Zur Overlords,75e2db2e-cf10-4677-8a53-b2d10172c236,680
+680,Andrew Higgins,12,Izzet Prowess,ca7e7639-59ce-416b-af51-b2d1010c9950,681
+681,JayPhx,12,Izzet Prowess,47f0ce76-9bf6-439d-96bd-b2d10124c93d,682
+682,Sammpellfb,12,Mono-Red Aggro,fb6606ad-8249-444d-9a54-b2d10154b280,683
+683,Paul Graygrove,12,Izzet Prowess,b178f654-8215-49d6-9d91-b2d100cde623,684
+684,Hugh Coyne,12,Jeskai Oculus,5637b868-4663-4d9c-831f-b2d0013f32ca,685
+685,Kerci,12,Dimir Midrange,22177299-2ddf-4d85-9a19-b2d10137d9ae,686
+686,Andres Ramos,12,Orzhov Pixie,53817821-785a-499a-94be-b2d10108355a,687
+687,Josh Wentz,12,Izzet Prowess,b54da2c8-cd26-46ce-a5b3-b2cb002aea85,688
+688,Amir Momin,12,Izzet Prowess,3012a611-5207-4aa8-a031-b2d10149352c,689
+689,Jason Figaro,11,Zur Overlords,c0b6c5b9-ceec-4865-89f3-b2d100133257,690
+690,Landon Quick,11,Jeskai Control,166fa126-2ed5-4c69-a6f4-b2d101472555,691
+691,Jacob Sloan,10,Zur Overlords,9c689a58-9348-4f66-914c-b2d10159d817,692
+692,nsagartz,10,Jeskai Control,a0d122e6-170f-411f-a5e0-b2d10131e727,693
+693,turnerbgregory,10,Dimir Midrange,e9dc6bc4-71f6-40e6-a4e2-b2d10174a221,694
+694,Justin Schultz,10,Azorius Control,0fc173c4-9b2b-43f3-9105-b2d10139fbd0,695
+695,Harrison Fang,10,Izzet Prowess,93286226-8a7f-4c46-8bb4-b2d10163e40b,696
+696,crazychickens,10,Azorius Control,7151f246-4cc5-4811-b4d8-b2d0015763f4,697
+697,KactusKing,10,Azorius Control,fb4bd8fa-928f-46f0-b93a-b2d10139323e,698
+698,Javier Perez Gonzalez,10,Jeskai Control,e3dbe48d-5b88-408d-bafb-b2d1016a3b80,699
+699,agbeyer383,10,Orzhov Pixie,adec0e1b-1fb0-454a-944d-b2cf01799537,700
+700,Cory Masterman,10,Izzet Prowess,076a776b-ff2e-4eb7-9642-b2d1004c7d6e,701
+701,Troubleshot,10,Mono-Black Demons,354b01c6-1b49-464d-b787-b2d101711fde,702
+702,Wayland Chan,10,Zur Overlords,d2836b5e-2f38-43c6-9b3c-b2d1012c5e84,703
+703,chance ackerson,10,Izzet Prowess,8b39a44d-4f9d-4956-b5c0-b2d1012cea49,704
+704,alricksayasavanh,10,Jeskai Control,c415859e-6876-47a9-ac3f-b2d100ed1e11,705
+705,Chandler Moreland,10,Esper Pixie,98f7039a-612f-4c14-825e-b2d100f42b3f,706
+706,Rummelicious,10,Mono-White Tokens,36278c97-bdbd-48cf-94bf-b2d1014e3196,707
+707,Michael Ulep,10,Jeskai Oculus,7a2f3b45-6835-4b79-88b1-b2d10178e9ba,708
+708,Austin Hoth,9,Jeskai Oculus,130552d4-5d3c-42bb-a555-b2d1012fce6c,709
+709,Colton Gardner,9,Mono-Red Aggro,181caa35-ecb9-45b9-b59e-b2d1015912b7,710
+710,Micah Workman,9,Dimir Midrange,7e487a9e-2446-4eb9-883a-b2d00169c717,711
+711,Maximilian Sagraves,9,Izzet Prowess,fa284702-8302-4207-ad53-b2d1017a5e8f,712
+712,Shaun Bonefas,9,Izzet Prowess,cba1fb51-612c-439d-8ca4-b2d1016f1677,713
+713,Mae French,9,Jeskai Oculus,5d1c03b7-672e-4393-86bb-b2d100162481,714
+714,DanM35,9,Mono-Red Aggro,cd8f4fe7-86d2-4c1b-a099-b2d000269ef8,715
+715,Joshua Collier,9,Izzet Prowess,bb3d9d4f-e66d-423e-97ff-b2d101495f5e,716
+716,jango909,9,Esper Pixie,3c1db973-9e45-4d1b-9625-b2d100717309,717
+717,Jeffrey Mccoy,9,Azorius Omniscience,5be881d8-fd51-4569-a3a1-b2cf00f6748e,718
+718,Eli Mizock,9,Izzet Prowess,aee6d096-512c-44e6-b84e-b2d1014ccd36,719
+719,GXC1,9,Mono-Red Aggro,0eebb03a-8de3-477e-be25-b2d000775a16,720
+720,Josh James,9,Orzhov Pixie,4023cb43-5115-4fae-b2df-b2d10155f0da,721
+721,Michael Bryant,9,Jeskai Oculus,a1cd010c-4e57-46d0-ba1b-b2d10161dad9,722
+722,Fred Davis,9,Azorius Omniscience,b4a3a770-f808-4349-a0ec-b2d001640e2d,723
+723,mitchhodges25,9,Mono-Red Aggro,03f30dc4-f40b-4527-9451-b2d1003d138b,724
+724,NooksCooks,9,Orzhov Pixie,c00ea49f-ddf6-4469-9a2c-b2d101420b4f,725
+725,froggidaprince,9,Esper Pixie,e23a6370-65a8-42c9-a295-b2d10015b979,726
+726,lukasaarong,9,Izzet Prowess,ed3c52c3-82e7-4dcb-b5ef-b2d1013b91eb,727
+727,BrianJRichardson19,9,Azorius Control,42aa5835-29b4-47c6-8fe7-b2d100fa382b,728
+728,Vincent Vitanza,9,Jeskai Oculus,2005de49-4ad4-44aa-ac39-b2d1000a2b7e,729
+729,John Conroy,9,Esper Pixie,db00e792-9d54-461d-aaf8-b2d001226580,730
+730,David Koon,9,Izzet Prowess,ce2bc7e6-a0e8-4d82-8bd2-b2d101533e50,731
+731,Bodado,9,Esper Pixie,2cf476bd-c649-43c8-a0a2-b2d1015835fb,732
+732,izzetwizard,9,Boros Mice,a85aa3c5-949e-4d65-8818-b2d1016ae7cc,733
+733,Alexander Bock,9,Rakdos Aggro,3856b9ca-327e-440e-a141-b2d1016ad62e,734
+734,Michael Martin,9,Zur Overlords,26786e4b-cad4-47ee-b155-b2d100c98fc9,735
+735,terok,9,Mono-Red Aggro,f9748ddb-6aad-4793-88ec-b2ce001956c6,736
+736,Devon O'Donnell,9,Izzet Prowess,272e9291-d938-4154-8603-b2d10033ae00,737
+737,Cale5895,9,Jeskai Control,2103e866-2c1d-4159-89ad-b2d10165c03a,738
+738,Jon Salazar,9,Zur Overlords,b951aa90-9cbd-4902-9308-b2d001813ae2,739
+739,Bruce Liu,9,Azorius Omniscience,4ef7dd8c-b8c8-4eb1-8fd4-b2cc01792a9f,740
+740,Cody Propst,9,Mono-Red Aggro,4ceb6c01-b35b-4a60-893b-b2d1014918c9,741
+741,Dylan Wlodar,9,Azorius Omniscience,9e7eda3b-dd9d-4237-8679-b2d10143145a,742
+742,Brian Boss,9,Izzet Prowess,0b01069e-8e51-48fe-b6c3-b2d100c96001,743
+743,Matt Engelbart,9,Izzet Prowess,63ff4c58-cd8f-443b-935a-b2d1014cf9f3,744
+744,Raelius,9,Izzet Prowess,ec81a6ee-bbf3-4f16-92d2-b2d1015874c1,745
+745,Steven Rorabaugh,9,Jeskai Oculus,ff572f13-3c31-408a-908d-b2d100f26ae1,746
+746,Jaron Denham,9,Izzet Prowess,08d2d294-2349-4c4b-87b8-b2d101698c5b,747
+747,Joshua Johnston,9,Zur Overlords,2cfdf171-cb64-4508-8ab6-b2d1003a3b33,748
+748,Hunter Curtis,9,Jeskai Oculus,26cac53a-eba4-4348-9fa6-b2d1013bb99c,749
+749,Dakota Jacobs,9,Abzan Pixie,091cefa7-96fd-430f-812c-b2d101740c1a,750
+750,Brad Bonin,9,Izzet Prowess,165eb712-7626-4437-a995-b2d1011cd75d,751
+751,Roger Gregory,9,Izzet Prowess,46eb0f92-bfbc-48b6-8d82-b2d0003e67ab,752
+752,Lorenzo Rivas,9,Azorius Artifacts,a5279bef-ebfc-41bc-a852-b2d1011d812b,753
+753,Chris Luyster,9,Zur Overlords,f6775ecd-c77e-4ad2-bcc3-b2d101414153,754
+754,Jonthan6646,9,Gruul Mice,95e8d450-39c5-47e3-851e-b2d000ca559c,755
+755,Mason Buonadonna,9,Izzet Prowess,a3d57892-d857-45b4-bbbe-b2d100fbbdd9,756
+756,Chris Deeter,9,Izzet Prowess,9a48196f-2fff-431f-b9eb-b2cf001336e8,757
+757,Noah Barber,9,Orzhov Pixie,522ab57c-0387-41d4-84e6-b2d001007681,758
+758,Francis Kwon,9,Mono-Red Aggro,22757b07-bb21-40f3-a7ef-b2ce01249f9e,759
+759,KARL Schultz,9,Izzet Prowess,ce4f4756-aba6-4b1e-b508-b2d1013cb877,760
+760,mikew808,9,Mono-Red Aggro,8f0017d1-e366-4293-a399-b2d1002574de,761
+761,GobboMucc,9,Orzhov Pixie,2e5c163f-f4c7-4ac5-b93b-b2d100f83eb0,762
+762,Kellen907,9,Azorius Omniscience,04da4177-380d-4903-a6fa-b2cf0177e84a,763
+763,Bryan McCord,9,Izzet Prowess,77e21421-654c-4aef-9702-b2d101409b0f,764
+764,Daniel Sommerfeld,9,Grixis Midrange,eaa6c9e6-f393-4b47-8a0f-b2cd011456ca,765
+765,pgyy,9,Orzhov Bounce,8779281f-e1c7-4b72-aba5-b2d1016fc1d8,766
+766,Michael Madsen,9,Abzan Pixie,a9b19dd7-999e-4b55-af40-b2d1012d4d77,767
+767,Jake Houtz,9,Jeskai Oculus,b1a0eb5a-1f3c-41c3-be40-b2d1016868e7,768
+768,Cameron Patey,9,Mono-Red Aggro,cfc101ce-7821-4430-9d57-b2d00104f3d1,769
+769,Grant Woodfin,9,Orzhov Pixie,b94112f2-3795-4b02-8f10-b2d100daf55a,770
+770,Ethan Welchel,9,Izzet Prowess,87263bfa-4795-415a-bd94-b2d1015340f3,771
+771,Anthony Tan,9,Azorius Omniscience,e51d41be-af62-4651-872a-b2ce010fb4cd,772
+772,Robert Boyer,9,Selesnya Cage,3976f642-3973-4ed0-962c-b2d10167e57c,773
+773,Queen Varrone,9,Boros Aggro,d0c55b1f-981f-4160-af1b-b2cb014ec22b,774
+774,sabastian daniels,9,Izzet Prowess,aaaeb775-c1ed-4460-958a-b2d10174fc7e,775
+775,Gregory glass,9,Izzet Prowess,f85b2a98-229d-4954-8ed6-b2cf018a7c0e,776
+776,Mike Hadley,9,Azorius Control,27ce940f-847a-4290-8645-b2d100cff880,777
+777,Brian Kobel,9,Dimir Midrange,1f76032f-478c-4758-8c22-b2d101129bd5,778
+778,Tysen Sample,9,Azorius Control,8135fa1c-8aa3-4cb3-9c06-b2d10153a45b,779
+779,Will Kollmansberger,9,Izzet Prowess,506ea81a-249c-4081-af81-b2d10151ac8a,780
+780,EatsBrownies,9,Izzet Prowess,b837bd63-cb1b-45b6-b358-b2d1005008aa,781
+781,Carlo Negrete,9,Jeskai Control,9fd7244b-97d3-4df6-8f99-b2d101610d15,782
+782,Aiden Lum,9,Izzet Prowess,f4c4013c-0c46-4529-9efc-b2d101466671,783
+783,Luke Deratzou,9,Jeskai Oculus,6d5bc802-899d-43b5-95d2-b2c300f5a711,784
+784,Alex Wells,9,Zur Overlords,4689c1a5-3b1c-48dc-958e-b2d0013b2010,785
+785,John Hubbard,9,Izzet Prowess,c91fb877-ba8e-45e8-b0f3-b2d10164e909,786
+786,Brian Lester,9,Jeskai Control,2c41fcf2-238b-414d-8eea-b2d1001ced06,787
+787,JakeBailey,9,Azorius Omniscience,7cbd101c-61eb-4a66-b69f-b2d100e8b205,788
+788,NoahW1,9,Boros Aggro,dfc955f1-ce69-4e85-a376-b2d1004729d6,789
+789,ChristopherB1,9,Izzet Prowess,d4ecdb9f-b940-40a3-80d4-b2d000e15f42,790
+790,Jason Ye,9,Temur Otters,9bdef169-d935-4fb9-b265-b2d1009ae760,791
+791,Evan Boyd,9,Mono-Red Aggro,9ba719af-b2e1-4c76-beeb-b2d1004b247e,792
+792,Christopher Thomas,9,Izzet Prowess,9b19c399-050b-4f5e-a2b5-b2ce011f3643,793
+793,JBOB805,9,Izzet Prowess,62ef55b7-136a-4b7b-95d5-b2d1012ee4fc,794
+794,Richard Truswell,9,Izzet Prowess,26de3b7e-4474-439f-92a0-b2d1001459d1,795
+795,Lenny Pelletier,9,Mono-Black Demons,20d53d7c-367f-427f-89ad-b2d0003fe3ac,796
+796,Steven Pine,9,Izzet Prowess,b81539ee-74d0-419b-95c2-b2d1002eab45,797
+797,Ryan Seawell,9,Mono-Red Aggro,cf0b9a31-3720-4a1e-a61c-b2d10022e46a,798
+798,Kyle Rehome,9,Jeskai Oculus,b417744f-7aa3-4634-944f-b2d0012e39d1,799
+799,Mark Zmolek,9,Zur Overlords,c1c8d2c9-6cbf-490d-8501-b2d10135d10d,800
+800,Sophie Schmidt,9,Izzet Prowess,f27033ad-2b36-4fa1-9ef0-b2d100e4db04,801
+801,Majortuna,9,Orzhov Control,70f1cd84-e701-4ffd-8fcf-b2c001893440,802
+802,Bryan Struckman,9,Gruul Mice,6c0bb8c1-a68b-46a2-9862-b2d101553197,803
+803,Beaux Bruggman,9,Zur Overlords,acbd63a9-2900-4356-83ab-b2d001646560,804
+804,DrolRaed,9,Rakdos Reanimator,1adcd01a-2cda-4d07-a803-b2d1008c55f9,805
+805,DanielM89,9,Golgari Midrange,3bc246cb-4971-4555-adae-b2d10007a4cc,806
+806,sshoemaker,9,Izzet Prowess,d1b7c77a-1636-4352-a7a8-b2d100653d89,807
+807,PeterWoodruff,9,Gruul Mice,6bcc1d79-0208-4865-bced-b2b200160827,808
+808,Zach Flynn,9,Izzet Prowess,72177ca2-94c0-4a8f-aaa8-b2ce013cdd86,809
+809,Tk55,9,Zur Overlords,e223cf90-21a6-4be4-a867-b2d00018cc2d,810
+810,Jeff Jao,9,Grixis Reanimator,adfab168-5525-4ea0-b5c0-b2b8012dbdcf,811
+811,David Banda,9,Zur Overlords,99dcf057-42c1-4203-9db7-b2d1010c686c,812
+812,Matthew Takahashi,9,Mono-Red Aggro,475dd938-0d5d-4deb-a9f3-b2d10166b0ac,813
+813,Joseph Cruz,9,Azorius Control,980e0140-bd5f-4e83-b573-b2d101463818,814
+814,David Kerrigan,9,Izzet Prowess,c1079a49-6d98-48f5-a298-b2d100125644,815
+815,Alan Hubbard,9,Orzhov Pixie,dba03c55-bee5-4686-92f5-b2d1016641d2,816
+816,Matthew Wright,9,Izzet Prowess,f3e1e288-2d67-4e28-88c2-b2d100f14fcd,817
+817,Issac Koehler,9,Orzhov Pixie,938f7744-c752-45fd-9aeb-b2d10041f781,818
+818,DerekR,9,Selesnya Aggro,8c70e1ac-de7e-4e6e-8b41-b2d10147fd26,819
+819,Shawn Becker,9,Jeskai Oculus,2c8332a4-b26f-4c51-a962-b2d10128309a,820
+820,Danny Kekedy,9,Zur Overlords,b65be18d-9e22-4cbc-99c6-b2d10039245a,821
+821,Brian Baker,9,Jeskai Oculus,282bce82-789c-46a1-be3b-b2d100cf9b48,822
+822,Luke Comeau,9,Izzet Prowess,413f0efe-2b19-4b68-b256-b2d00014ec68,823
+823,Patrick Richardson,9,Azorius Omniscience,dbddf629-77cc-4486-a35e-b2d1010a0082,824
+824,Josh Hill,9,Azorius Omniscience,f2ea6fc6-76d3-41d0-b685-b2d100fa561e,825
+825,BabyRuss,9,Azorius Control,e09d2964-7c37-4a04-8c9f-b2d1016497ba,826
+826,Frederick Tan,9,Orzhov Pixie,d5ff488e-3b23-41c2-94c0-b2d100696ffb,827
+827,Nitevision,9,Orzhov Pixie,227bdd01-80ec-4bab-8b2b-b2d000181988,828
+828,jdotmonte,9,Dimir Control,649b7308-9032-41f4-aea4-b2d100e45f4e,829
+829,Jackson King,9,Izzet Prowess,9303013c-597f-4385-bb56-b2d1013001a9,830
+830,Shaye Riano,9,Izzet Prowess,7a187f55-e381-4016-b534-b2d10076c698,831
+831,Isaiah Tarver,9,Temur Otters,e43f1d4d-2e0e-41aa-8ff9-b2d101448c88,832
+832,DannyM,9,Izzet Prowess,31fdd704-3d12-491a-8dcd-b2ba016e543b,833
+833,JabberJames,9,Jund Roots,28e6f285-39a1-485d-8e8b-b2d2001a33d4,834
+834,Thomas browning,9,Jeskai Control,08601f83-88f8-4aa7-a25d-b2d10152d63f,835
+835,Daniel Staup,9,Mono-Black Demons,3970e832-4200-4f7d-848f-b2d000da760c,836
+836,Julianne Rice,9,Simic Beanstalk,f328327f-1cba-4756-886d-b2cf00d403d9,837
+837,wolfy150117,9,Gruul Leyline,2d5e1b76-b4e7-40ad-b515-b2d1015e0156,838
+838,Michael Laracuente,9,Mono-Red Aggro,9c609c42-ffd7-47bd-b5e0-b2d1013d4e89,839
+839,Robert Litfin,9,Azorius Control,ff35c33d-b818-4e89-9c11-b2d0018ad9fc,840
+840,Isaac Winslett,9,Izzet Prowess,0ca5e049-d525-4a05-8f7b-b2cf012316a1,841
+841,Warren Woodward,9,Boros Monument,24fa1551-f5da-4063-b1a3-b2d1014cf681,842
+842,Finuve,9,Rakdos Aggro,8e170f32-0bb5-484a-a30f-b2d10143ead4,843
+843,Dan Petro,9,Azorius Omniscience,ff878b51-be4b-4fb8-8d8f-b2d100435e38,844
+844,Allen Hobson,9,Rakdos Reanimator,f212c920-fda8-4707-9a4d-b2d000362f54,845
+845,Chase Fleeman,9,Mono-Red Aggro,449b0bd8-e777-421e-94bc-b2d10165bf8b,846
+846,Ryan Arash Marsh,9,Orzhov Pixie,7167d697-b6cb-4f76-a5c2-b2a40159fcef,847
+847,Lane Bays-Broils,9,Five-Color Ramp,45ec2669-8261-4182-a73d-b2d1016f3745,848
+848,Jdt01381,9,Rakdos Demons,ac1c39f6-8bb6-4810-8290-b2d1003f8282,849
+849,Casey Fuste,9,Jeskai Oculus,e041b29d-7d7e-40fa-8eb0-b2cf00fdffa0,850
+850,Matthew Eblen,9,Azorius Omniscience,9b755b56-e2b3-40f5-90b5-b2d1015b3a02,851
+851,Hunter P,9,Izzet Prowess,5d41c7f6-2304-434c-8625-b2d10130c7ef,852
+852,Matthew Riggs,9,Jeskai Oculus,27a9173e-31ee-4395-89f0-b2d0016c556b,853
+853,Jeremy Hixson,9,Izzet Prowess,f92a087e-f427-4957-8776-b2d1013a63b6,854
+854,Michael Absher,9,Izzet Prowess,11d6496a-cbfa-4fbe-9810-b2d0017aa510,855
+855,Kevin Thanakit,9,Esper Bounce,a3b70962-666e-4ef8-ba27-b2d10174113b,856
+856,David Frischer,9,Jeskai Oculus,b27c7cbc-167d-4409-8c3f-b2d10122b28e,857
+857,Julian Korfine,9,Izzet Prowess,41453ad3-3bc5-4283-a096-b2d10102e2ec,858
+858,Ward McKonly,9,Izzet Prowess,f1a42c17-c24f-43e7-85e6-b2d1013e45ff,859
+859,Ascicia,9,Mono-Red Aggro,1af1af4e-72c2-4fdb-9b2f-b2d101234e65,860
+860,Jim Bishop,9,Izzet Prowess,d4749901-4fb5-4c0f-be46-b2d100e6ffa4,861
+861,kowapw14,9,Izzet Prowess,682e6b22-5113-43cc-a167-b2d1005049a3,862
+862,CMArebalo,9,Izzet Prowess,6d71de2f-9fad-47fe-9b11-b2d10103416d,863
+863,LegendDennin,9,Izzet Prowess,6630be64-c4b8-413c-adc9-b2cf016293aa,864
+864,joshuaE,9,Izzet Monument,8cb779b2-736e-4356-87e2-b2d1013e75c8,865
+865,Damian Anderkin,9,Izzet Prowess,721bf7f2-5958-4816-bb91-b2d100da481b,866
+866,TrashWizardMahon,9,Mono-Red Aggro,959f546a-7495-4895-954a-b2d1016865f0,867
+867,Jay T,9,Izzet Prowess,b3e96974-43d0-4a1b-bd6e-b2d1012be034,868
+868,Jake Chaimowitz,9,Jeskai Control,6a207cef-5d10-43fa-a8bd-b2cf00439c46,869
+869,Davis Toomey,9,Izzet Prowess,034f5fdf-1b66-49c5-9e96-b2d1014cb44e,870
+870,Drew Pavelchak,9,Dimir Midrange,658c4216-eb51-492d-8e2a-b2d1005daf7c,871
+871,jackson knorr,9,Izzet Prowess,b610ec5f-a162-4546-872f-b2d101772761,872
+872,Jack Landes,9,Izzet Prowess,7e63f066-4da6-4104-bbae-b2ce01299084,873
+873,op_king,9,Izzet Prowess,638efe1d-c4c7-4e51-9b45-b2cf0121ec3d,874
+874,Andy Van Oosten,9,Zur Overlords,85a75751-7d23-4c48-af3b-b2cd0014c6fd,875
+875,Joshua Herr,9,Mono-Red Aggro,699f3df4-6ca8-4571-8808-b2d1016e690a,876
+876,eggegg,9,Simic Combo,5671997c-1f99-4760-b3eb-b2d100ced5b2,877
+877,Ken-Min Yeoh,9,Izzet Prowess,4e35aed1-b863-401a-b75f-b2d0003f98dd,878
+878,Kevin Caruso,9,Azorius Omniscience,0f2dd4ca-eff9-4b6e-bd83-b2d00166d1d3,879
+879,John Madison Ballington,9,Boros Mice,f04216b8-7214-4576-86f9-b2ce010fd7cd,880
+880,Blackmeza1,9,Jeskai Control,702ec563-ae70-47bd-ac20-b2d101711912,881
+881,Fierygem454,9,Esper Pixie,d5816ef8-f339-44d5-be6b-b2cf00eadd2e,882
+882,Alex Purdy,9,Mono-Red Aggro,7abd8c3e-a6f7-446b-852a-b2d1004db3b0,883
+883,Casey Swanson,9,Izzet Prowess,d9b6b35a-b0df-4863-9d30-b2d101204840,884
+884,NapLB,9,Jeskai Control,f5cab1c7-0142-44d9-bb08-b2d1002bb1a3,885
+885,Kevin Kingsley,9,Mono-Red Aggro,51afd2cf-ec3b-4d30-afa6-b2d1012e1717,886
+886,Jacob Lamothe,9,Mono-Red Aggro,19153b58-f4e8-4a81-acf7-b2d101049973,887
+887,Miles Failing,9,Azorius Aggro,3d3fb508-cbcc-4cdd-b5ab-b2d0016bfd22,888
+888,Derek Fenske,8,Jeskai Control,44f13141-9a08-4571-b5af-b2d100ff1ca2,889
+889,Parker Goff,8,Jeskai Oculus,fe3ad83c-c813-4eb2-95d6-b2d10135d20c,890
+890,Reed Anderson,8,Zur Overlords,d6e53c66-c3a6-41e8-8078-b2cf002da074,891
+891,Jex,8,Izzet Prowess,c30494c3-3b97-486c-adb5-b2cb002fde40,892
+892,Diesel,7,Mono-Black Demons,6c337c7f-26bc-4e45-9cd4-b2d000014557,893
+893,John Mayes,7,Selesnya Tokens,33c653a8-1514-430f-a4f4-b2d1011c86ce,894
+894,Gabriel Maxson,7,Azorius Omniscience,8e13678b-9620-4b5d-a6c6-b2d0005096ee,895
+895,Matthew Comeau,7,Jeskai Control,0271b9e8-a1be-42ce-aa99-b2d1004ae417,896
+896,Jake Walker,7,Jeskai Control,d37c169e-b94c-4d52-b49f-b2d10152d481,897
+897,Diminthus,7,Jeskai Control,8463293a-128e-4404-ac28-b2d0002553de,898
+898,Barry Smith,7,Izzet Prowess,a244969b-ac2c-4be4-8964-b2cf0178d98d,899
+899,Rotter,7,Zur Overlords,554162bc-78d0-44b3-b80c-b2d101611155,900
+900,treyb,7,Azorius Omniscience,43a3e37e-ed2c-4b73-87ca-b2d000f5a127,901
+901,Sparky45,7,Jeskai Oculus,0d4acabf-af42-443f-86d9-b2d10163767f,902
+902,VastorBanter,7,Dimir Demons,cf65d75c-5b88-492f-b659-b2d000de0613,903
+903,Santiago Rubio,7,Mono-Red Aggro,1995fd76-47e7-496a-9c6b-b2d0015b91e0,904
+904,Adam Hawthorne,7,Izzet Prowess,7a229d8b-d368-4b7c-802d-b2d1016b70d3,905
+905,Stephen Rennie,7,Zur Overlords,951ee611-8b10-4026-8a89-b2d1002a71d4,906
+906,EvanQuesnell,6,Izzet Prowess,97e93c27-b148-4f16-bc76-b2d1014470ed,907
+907,Crashvh,6,Azorius Omniscience,053d897b-2376-4654-8116-b2d100a0476d,908
+908,Gabi Ruiz,6,Izzet Prowess,cf794ad8-863e-45f2-a98c-b2d0012ff43a,909
+909,Slax,6,Izzet Prowess,a37564c5-3308-48d4-9cac-b2d1016e37e9,910
+910,Brett Cash,6,Mono-Black Demons,cd8734a0-d772-452e-ba1a-b2d101386bb3,911
+911,Dylan Bauman,6,Izzet Prowess,e15cf003-0e23-4c49-84d6-b2d1015a94c2,912
+912,Daniel Forster,6,Dimir Midrange,245eb02c-0714-4ff9-a9a5-b2d00181871d,913
+913,dirk_mathews0263,6,Selesnya Tokens,eccc9c96-5506-4358-baa5-b2d100e2d17b,914
+914,Zachary Isom,6,Izzet Prowess,0dc67f13-46fe-4604-824f-b2d10118e0ea,915
+915,Juan Perez-Bermejo,6,Azorius Omniscience,5e6db9ba-456b-4b90-8bcd-b2d10166f5f3,916
+916,GREG PINO,6,Zur Overlords,787a5ac3-d885-485c-8e3e-b2d101573b9c,917
+917,Michael Miller,6,Jeskai Oculus,07958501-2e97-48ce-9c22-b2d00024c370,918
+918,Sean Weihe,6,Izzet Prowess,0eb23402-cc89-4371-a4e6-b2d1015529b5,919
+919,Joshua Hess,6,Izzet Prowess,16a32dbc-7271-44d0-ab0a-b2d00007b4fc,920
+920,Ryan Heuer,6,Izzet Prowess,53de312c-311c-408b-8793-b2d10149f59e,921
+921,Andrew Murley,6,Mono-Red Aggro,99afe2aa-9f83-49e3-855c-b2d1013075e8,922
+922,Fanchen Yang,6,Azorius Omniscience,08c0122a-a569-451b-993c-b2b1011c65b6,923
+923,Nathan Fursa,6,Azorius Omniscience,67a0a49e-378d-4008-9bc5-b2d101557823,924
+924,Carson Lewis,6,Izzet Prowess,0d326e61-f246-4340-a882-b2d101791cb7,925
+925,sblack,6,Esper Pixie,d29b2926-e255-4d6c-88bb-b2d10159ce00,926
+926,LorenzoDePasquale,6,Azorius Omniscience,96515f74-52dd-45df-8f97-b2d10148f0ea,927
+927,Nick Cowden,6,Sultai Beanstalk,aee69b2f-4cba-475f-8cf0-b2d10137abe5,928
+928,Rkthechosen1,6,Grixis Bounce,a8542b62-71de-4fff-a4b6-b2c2000ffa7f,929
+929,Chris Donaldson,6,Izzet Prowess,59682a8e-e379-42f2-bde8-b2d0015a534d,930
+930,JPG520,6,Gruul Mice,9506e171-63ad-4647-9eff-b2d101690cb9,931
+931,Josh Czopek,6,Izzet Prowess,37481b6b-f74d-4682-9a1d-b2d10146e068,932
+932,Mark DeMonbreun,6,Mono-Red Aggro,1f0331af-4972-41b1-a7df-b2d0011836ff,933
+933,Kougadm,6,Izzet Prowess,63dd0b07-ab48-422b-8975-b2d101647078,934
+934,Austin Sorscher,6,Mono-Red Aggro,246b373b-3775-44ec-a30b-b2d101672584,935
+935,Gregory Jackson,6,Dimir Doomsday,2603ef5d-734a-406e-85e0-b2cd00e53536,936
+936,Garland Muller,6,Jeskai Control,26f49fda-ceb8-4ff5-bcef-b2cf00f0bdf0,937
+937,Face4231,6,Izzet Prowess,019f27ef-7551-448f-a733-b2d1016eec6d,938
+938,Zackery Myles,6,Izzet Prowess,bed3f5db-bd50-4e99-a654-b2d1010acb63,939
+939,Sean McCary,6,Azorius Artifacts,d5b4dd46-e370-45a4-940f-b2d1006a8516,940
+940,Clinton Martin,6,Azorius Omniscience,018176d5-3f95-4b13-9923-b2d100fd4e8d,941
+941,Tyler Bush,6,Izzet Prowess,65628363-9f9c-47d7-a677-b2d1002aae39,942
+942,Brian Petersen,6,Izzet Prowess,12d884a0-370f-489b-b802-b2d101595b4c,943
+943,Matt Culbert,6,Esper Pixie,73032710-73a5-407c-a1fd-b2ce011a08cf,944
+944,Nick Bell,6,Jeskai Convoke,19241643-e3f8-4dcb-ac37-b2d1011c6e3e,945
+945,James McCoury,6,Jeskai Control,135df8a1-3a68-4b9a-9561-b2ce004c9df7,946
+946,Limbberry,6,Jeskai Control,c4b72ebf-5741-4a21-a355-b2c300274792,947
+947,Vinnie Fino,6,Jeskai Oculus,d63e2a08-91bd-4e41-81ae-b2d100782173,948
+948,Corey Burkhart,6,Jeskai Oculus,367586e6-7d9e-477b-bf6f-b2d00114cba5,949
+949,Levi Stevenson,6,Boros Tokens,c8d6c612-1637-4483-9abb-b2d001276858,950
+950,Fdiesel1,6,Izzet Prowess,0a54298f-6c13-46be-b332-b2d0011b22a5,951
+951,Jacob Wiechmann,6,Izzet Prowess,df8fd1e8-9ce4-418c-b560-b2d1014f055b,952
+952,Thatcher Koenecke,6,Izzet Prowess,13aca260-6bd5-4613-9ceb-b2d100d6c41d,953
+953,keyan jafari,6,Izzet Prowess,bbb24d28-0c0b-42a8-a758-b2d10119f4fe,954
+954,Akshay Karthik,6,Izzet Prowess,7eef6495-7e6d-442f-b351-b2cf0007124f,955
+955,CJ Voege,6,Izzet Prowess,68bea842-eb86-4596-afbf-b2d1005845e9,956
+956,Robert Peschko,6,Dimir Midrange,bdf1bab1-03d4-44d7-b504-b2d0014d9444,957
+957,Juan Astiazaran Ramos,6,Mono-Red Aggro,35480d4a-de3f-4f45-bb84-b2d10104e58b,958
+958,Jae Yi,6,Jeskai Oculus,ff34232b-ddd0-4685-9997-b2cb008841e4,959
+959,Dana Olson,6,Izzet Prowess,42400063-32f8-46ab-8760-b2d00139659b,960
+960,akwaters123,6,Gruul Mice,83bcf107-ed56-4cb6-8ca7-b2cf0175c9e4,961
+961,Aurinel18,6,Boros Mice,ea90363e-9e17-496d-ad01-b2d1015a7901,962
+962,Kenan Diab,6,Izzet Prowess,803488bc-a128-48e6-b835-b2d100ec13a8,963
+963,connorgerson7,6,Zur Overlords,f28ad10d-249d-4a81-a465-b2c70059cfdb,964
+964,Zach Coughlin,6,Jeskai Control,58ea4a36-e133-4847-90ac-b2d10169ec9b,965
+965,Aryeh Wiznitzer,6,Izzet Prowess,429269ef-f8d5-4689-8963-b2d10118a349,966
+966,Icecreaam,6,Izzet Prowess,55aee1cf-05bf-4d04-a474-b2d1004f42dd,967
+967,Wesley Hickman,6,Izzet Prowess,f84fec76-8ec6-4f58-81cf-b2d100e846fb,968
+968,Hannah Seccia,6,Orzhov Pixie,da6fe2ea-4a36-4e68-b5c7-b2cf017b5d4e,969
+969,Josh Emery,6,Selesnya Cage,6864732e-08fa-4c22-ad3c-b2d10016b8fc,970
+970,VadaszJ,6,Orzhov Pixie,e59658a2-ab3a-429e-bd4e-b2d1006fd87c,971
+971,jlroch28,6,Selesnya Aggro,86fbc19c-235b-4a5b-968d-b2d101218bc1,972
+972,Casey Ford,6,Jeskai Oculus,cfd6c1e8-c225-4a94-a2f2-b2d1016fe367,973
+973,Torin Butler,6,Jeskai Oculus,058d9ef6-37eb-4343-a8db-b2d1016055fd,974
+974,SamirKumar1,6,Jeskai Oculus,56c9a997-5925-48fd-ba32-b2d1014ac198,975
+975,David Dunham,6,Jeskai Oculus,c303288f-c622-4ce5-9c32-b2d1002eefcd,976
+976,Brian Patton,6,Mono-Red Aggro,cb7c2333-e405-46cb-b0fd-b2d1012498ec,977
+977,Lance Schultz,6,Gruul Mice,7838e0dd-65c9-4820-8e7b-b2d1002c143d,978
+978,jqiu212,6,Jeskai Oculus,ca2302ea-c46e-48ca-8292-b2d101029664,979
+979,Tanzu,6,Izzet Prowess,cd097771-435f-424d-88ff-b2d10053c413,980
+980,Harper Wilson,6,Azorius Omniscience,d709db36-05c3-4f98-9f92-b2d101632d47,981
+981,Aylin Davis,6,Jeskai Oculus,b014a86b-a9a3-476e-8b98-b2d1013aa4c2,982
+982,Mike Inman,6,Izzet Prowess,4131156a-4165-4605-9dd6-b2d001052613,983
+983,Andrew Debevoise,6,Izzet Prowess,442f6296-fc67-428b-8fef-b2d100dea119,984
+984,Isaac Sears,6,Jeskai Oculus,bc68d002-a770-4f7d-b552-b2d100458b3b,985
+985,Patrick Murphy,6,Mono-Red Aggro,070b9c46-61ae-4e88-b3d7-b2d1011cad3c,986
+986,Adam Lappin,6,Jeskai Oculus,35b9edea-c23e-4877-91a0-b2d00167e664,987
+987,Ricky Pelton,6,Azorius Control,1ef9afe5-2575-4224-89d2-b2d101579957,988
+988,Terry Saul,6,Izzet Prowess,e32f028c-0be7-4537-bc94-b2d101669f1a,989
+989,Mitchell Dahlke,6,Izzet Prowess,79c29a97-040a-4315-9399-b2d10167009f,990
+990,ZackWind,6,Izzet Prowess,f81cdeeb-8155-4bff-9b65-b2d100691d89,991
+991,Bobridges34,6,Dimir Midrange,49e07421-8416-49bc-bbd6-b2d100eb3d6e,992
+992,buddybbusterkins,6,Boros Mice,f60b18cc-5b0c-4088-ace0-b2ce00e13c03,993
+993,Kazi Baker,6,Izzet Prowess,d8e02edf-1370-4496-853b-b2d10017b40e,994
+994,Xavier Higgins,6,Jeskai Oculus,4acd246e-bb91-4db1-809e-b2d10171ba42,995
+995,Josh Maahs,6,Jeskai Oculus,87550e7e-0b7c-435a-8b82-b2d10119da13,996
+996,Alex Higdon,6,Azorius Omniscience,64f84b12-1e99-45d1-b882-b2b800d9314d,997
+997,Braden Delaney,6,Zur Overlords,14cd2008-8fa1-4edc-bf53-b2d101509111,998
+998,Andrew Auburn,6,Jeskai Oculus,fff39211-25e0-46b2-92be-b2d1003cd499,999
+999,Ndigity29,6,Golgari Midrange,5fc826da-7dae-4616-aa00-b2d1015d4b76,1000
+1000,Gabo0630,6,Zur Overlords,96a10cd7-d105-4a1c-9496-b2d10029e03d,1001
+1001,James Parrish,6,Jeskai Oculus,417dfb10-7bb3-4ecc-b9bd-b2d1010fdcad,1002
+1002,johnnyinabucket,6,Mono-Red Aggro,5a0df0ee-3782-45cd-890c-b2d101340707,1003
+1003,Edward Green,6,Izzet Prowess,f3aefd8f-3b04-4608-9c7a-b2d101454f42,1004
+1004,Robert Jackson,6,Izzet Prowess,a38bdf2e-8885-4755-969d-b2d0011cffd8,1005
+1005,Austintobeeyy,6,Jeskai Oculus,4d6c1545-6da4-4468-8b4d-b2d100309eec,1006
+1006,Gabriel Carleton-Barnes,6,Azorius Omniscience,77f6a749-74aa-44ec-a1d5-b2d1013590a8,1007
+1007,jche,6,Izzet Prowess,9104180a-8e97-41f5-8420-b2d1005bc65c,1008
+1008,Robert Ferrigno,6,Izzet Prowess,ef45b8d5-540e-4ac0-99bc-b2d101509890,1009
+1009,Ethan Ginsberg,6,Izzet Prowess,5e3dc587-d264-426f-b6ca-b2d10154a06f,1010
+1010,Travis Fredrich,6,Izzet Prowess,853e5021-9fce-4e26-8923-b2d1013283d0,1011
+1011,Ryan Hosie,6,Esper Pixie,77b54024-59ef-4838-939d-b2d1001474fb,1012
+1012,Luke Brandes,6,Jeskai Oculus,94dd1ea6-1c50-43c5-9669-b2d0016ca961,1013
+1013,Ainsley,6,Zur Overlords,78d763aa-5c00-4c4f-9036-b2cf013c825f,1014
+1014,Michael Carter,6,Izzet Prowess,70990807-883a-4603-958f-b2cf015a655f,1015
+1015,Jeffrey Gavia,6,Azorius Omniscience,6f321061-05c9-4d61-8f72-b2d1008db138,1016
+1016,Miles Jones,6,Jeskai Oculus,b26c8698-2d3d-4fda-8ea2-b2d10170f538,1017
+1017,Giovanni Chisci,6,Izzet Prowess,6dde8f19-9f80-4ce8-b8f1-b2d10123559b,1018
+1018,benjaminhuynh,6,Izzet Prowess,625da960-427b-42b9-aa11-b2d100622b9f,1019
+1019,Tal Friedman,6,Jeskai Oculus,b8899ac2-bb81-4557-877c-b2d10153431d,1020
+1020,henry dylla,6,Temur Otters,1d4a1618-b668-4ecb-9109-b2d0015bdd31,1021
+1021,Luis Miguel Collado,6,Jeskai Oculus,bede5068-63dd-46d9-929f-b2d1004387cc,1022
+1022,Joe Nguyen,6,Golgari Demons,28a9f879-8b4b-487b-80ce-b2d1017566ed,1023
+1023,Hayden Iske,6,Izzet Prowess,22659fd6-9e49-439e-b37a-b2d00166bb2a,1024
+1024,"Hi, I'm Peo",6,Mono-Red Aggro,7c704cb6-c547-432a-9cb5-b2d0002e709e,1025
+1025,Colter Anderson,6,Jeskai Oculus,c3cc3057-bda6-47e1-802b-b2d10057b55b,1026
+1026,Kris Hamann,6,Izzet Prowess,35b4ff53-544f-492e-ab5e-b2d100d9f027,1027
+1027,Angelo Lirazan,6,Izzet Prowess,faa27759-7479-4d65-b670-b2d000330396,1028
+1028,Evan Sonnenberg-Rhim,6,Izzet Prowess,784afbae-27bf-4790-a6b2-b2d0004a5b19,1029
+1029,NectarineRidges,6,Azorius Control,eaf29103-e398-4d3f-b53b-b2d10116a9f4,1030
+1030,Jordan Vonderwell,6,Jeskai Oculus,f935988c-2842-426d-a93c-b2c9010f6076,1031
+1031,Andrew Benson,6,Izzet Prowess,2efa3415-fc94-4de7-8ba9-b2d0018a584c,1032
+1032,sammychuck,6,Mono-Red Aggro,84931326-7d4b-4f52-9035-b2d101404569,1033
+1033,John Dunbar,6,Izzet Prowess,1351b8a4-27a7-4f4a-b65f-b2d10179efe9,1034
+1034,Andrew Vondeylen,6,Esper Pixie,22e51c9d-a0b7-42c2-8f6c-b2d10165bd39,1035
+1035,Terry Brown,6,Izzet Prowess,4a11afec-5c48-4e86-850f-b2d1015f91f7,1036
+1036,Oren Erlich,6,Jeskai Oculus,1f31f284-d094-4d45-ade2-b2d1005e6b18,1037
+1037,Ryx,6,Gruul Midrange,20033501-cede-4793-a76a-b2d101798871,1038
+1038,Ashenmoore,6,Jeskai Oculus,b8464faf-d611-4933-9066-b2d101298694,1039
+1039,Zachery McIntosh,6,Izzet Prowess,244d8b5d-9a68-483a-8559-b2d10167e88c,1040
+1040,Patrick Warner,6,Zur Overlords,37dbc5c9-a3df-48c1-97c7-b2cf002e51dc,1041
+1041,Joshua Neal,6,Izzet Prowess,9886991f-8303-4ebd-8429-b2d1012fa804,1042
+1042,Ashkan Paykar,6,Jeskai Control,2e66518f-b9f8-4d68-afb0-b2d10069b781,1043
+1043,Colton Scharenbroch,6,Izzet Prowess,45cef394-8498-4f9f-87ff-b2d1003c345c,1044
+1044,Tossan,6,Izzet Prowess,65577318-7bd4-4a81-a411-b2d1014e568a,1045
+1045,Idk1243,6,Jeskai Oculus,8a21e339-bedb-431b-9033-b2d0016b49c5,1046
+1046,Brian Weber,6,Jeskai Control,4aa8571c-8d0a-411d-a27e-b2d100fe6ae5,1047
+1047,Gene Friedman,6,Mono-Red Aggro,00298e4b-a1f9-472d-a334-b2ce010f3b11,1048
+1048,Quacksington,6,Izzet Prowess,21a5410b-c9e6-4ebb-b464-b2d1012e068b,1049
+1049,derryldepriest,6,Azorius Control,8aece904-81be-4848-ba79-b2d101462370,1050
+1050,Josh Schroeder,6,Jeskai Control,142b3c17-6b3a-4e53-a0a5-b2cf0152fd46,1051
+1051,Ryan Miles,6,Orzhov Pixie,7aa8fa4b-f7d7-474f-8335-b2d10172cab0,1052
+1052,Jake Montalbano,6,Izzet Prowess,a9320dcb-8d58-46fb-b191-b2d101109346,1053
+1053,Todd Jones,6,Azorius Omniscience,6d8c7eb3-cf08-4af7-85d2-b2cd014bc399,1054
+1054,Robert Strong-Morse,6,Jeskai Oculus,a6a52441-f426-479b-9e66-b2d1018b4a87,1055
+1055,Nicholas Odenheimer,6,Gruul Leyline,7165dffd-2c90-48b4-9668-b2ce00079302,1056
+1056,Daniel Prue,6,Izzet Prowess,dc372618-edaa-48b7-91a1-b2d1005825a6,1057
+1057,Matthew Bell,6,Izzet Prowess,51298268-0ae2-4e00-9dff-b2d1015f5a8e,1058
+1058,toffeemamba,6,Dimir Midrange,a0e1fd00-eb1b-4a4a-8f9b-b2d1010f7f87,1059
+1059,Luis Vasquez,6,Jeskai Oculus,100d335f-9630-40fc-8057-b2d1004bdef2,1060
+1060,Dvanmeter17,6,Zur Overlords,019cbefb-b982-4563-85c5-b2d0017ad7c0,1061
+1061,MaxtionHero,6,Abzan Pixie,22b18658-f1fe-4f04-bece-b2d10151c6cb,1062
+1062,Christopher Medina,6,Mono-Red Aggro,bea43a52-3140-44f2-8ce1-b2d10173ac8c,1063
+1063,Rottingham,6,Mardu Pixie,29f5ae22-6fa6-4dfd-808b-b2cf0055b5b4,1064
+1064,Mike Egan,6,Jeskai Control,2d7e2178-e147-451d-a0d8-b2d10151f4fe,1065
+1065,Curtis Eslami,6,Izzet Prowess,8ab8b837-795a-4848-8470-b2d10138c903,1066
+1066,Louis Salerno,6,Izzet Prowess,51f8a340-6afc-458a-9df9-b2d10158aed6,1067
+1067,Paul Nguyen,6,Mono-White Tokens,03f24036-3915-43c9-9600-b2d1015bf6a7,1068
+1068,Justin Martinez,6,Azorius Omniscience,d8e4bc51-6985-4b01-abff-b2d1013fcaf5,1069
+1069,Ron Rice,6,Gruul Leyline,bc6ae0a4-1c94-440f-bf4b-b2d00189630c,1070
+1070,James Bell,6,Jeskai Oculus,6c427432-f688-4dc4-a2ec-b2d1011e2ad9,1071
+1071,Hazel Smith,6,Mono-Red Aggro,a3c02808-8f32-4498-bca6-b2d1016c987a,1072
+1072,Luke Fuller,6,Izzet Prowess,aae0fda4-38a2-4554-b3dd-b2d101603e50,1073
+1073,Drew Gross,6,Orzhov Pixie,c1908790-e042-415f-a48f-b2cf00949b22,1074
+1074,Charlie Dusterberg,6,Izzet Prowess,ca055062-3ae8-4faa-b9fa-b2d1010f3880,1075
+1075,Daniel Smith,6,Izzet Prowess,1205a1f0-4f9e-499c-8b40-b2d100e30bc5,1076
+1076,OOst,6,Izzet Prowess,6bf5a1ee-a766-4433-9f4f-b2d1013263a9,1077
+1077,Khang Nguyen,6,Mono-Red Aggro,dc151c6b-adb1-4eba-a2c5-b2d10156f326,1078
+1078,Gerardo Nunez,6,Jeskai Control,d40a5499-125e-41d3-909c-b2d1017ae2c1,1079
+1079,Lexi Christensson,6,Izzet Prowess,33697ea9-b9ba-4659-938d-b2d101655c48,1080
+1080,Oliver Peters,6,Izzet Prowess,6b11643e-1d62-4bbd-9bdf-b2d100ff1f48,1081
+1081,Josh_8finity,6,Azorius Control,7560bafc-feab-420e-bb33-b2d1005d6dc1,1082
+1082,Mirra Berglund,6,Izzet Prowess,411c6cf9-cc89-439a-ae15-b2d00035dbe3,1083
+1083,Dallas Dick,6,Izzet Prowess,a71aab42-e50b-40cb-90fc-b2cf0184ac48,1084
+1084,Ben Wienburg,6,Izzet Prowess,3a2abd10-1823-464f-a97d-b2cd01373f8c,1085
+1085,Nolan Thompson,5,Orzhov Pixie,0311e45b-9bf2-4188-a5de-b2d101132576,1086
+1086,Catsworn,5,Azorius Aggro,2568cf84-feca-4a45-b850-b2d000a88868,1087
+1087,Michael Nelson,5,Jeskai Control,772b2fb2-de6f-4ea5-b285-b2d1001cc996,1088
+1088,Connor Dempsey,4,Zur Overlords,b120d592-6b6d-4de3-a3ff-b2d100bdfaf4,1089
+1089,Kevin Parker,4,Izzet Prowess,59a59617-a108-4f5b-bf8f-b2d10116db06,1090
+1090,Skrocious,4,Zur Overlords,39428a52-45a7-44e0-aa92-b2d1016ae6ca,1091
+1091,Grant Jackson,4,Jeskai Oculus,a6695ece-791a-4e3a-a974-b2d1016793f8,1092
+1092,KevanKramer,4,Boros Mice,f8825d51-0762-4367-afea-b2c40126d085,1093
+1093,FabianPhyrexian,4,Azorius Combo,80580dad-c754-4f4b-afcb-b2d101738df3,1094
+1094,Matthew Davis,4,Esper Pixie,36ce8cdf-223e-4d02-aa15-b2d1015aeba0,1095
+1095,Adam Doyle,4,Orzhov Pixie,601a2724-f1b1-4c26-b912-b2d00153c650,1096
+1096,Brian Mesiona,4,Dimir Midrange,da4748ea-58a7-4f55-8764-b2d00076716b,1097
+1097,RYAN Smith,4,Azorius Omniscience,645681c7-6f7c-4438-9b72-b2d101580221,1098
+1098,Chad Whitehead,4,Zur Overlords,339f39f8-8f85-4609-a184-b2d10015ffb9,1099
+1099,Quinton Haley,4,Izzet Prowess,ef2ba137-a98e-4b45-ab33-b2b0018b7e0c,1100
+1100,Zachary Alexander,3,Azorius Auras,272b27ff-ecb2-45f2-8a66-b2c7004b4cdf,1101
+1101,Jack Houle,3,Zur Overlords,ea4486ad-435c-4bad-800f-b2d1014502b9,1102
+1102,John Cuvelier,3,Izzet Prowess,0495fb97-d073-409e-a88a-b2d1015191d8,1103
+1103,Jacob Lambert-Lyons,3,Izzet Prowess,2cb72668-e945-4a50-900f-b2d1001b36d5,1104
+1104,blake madson,3,Mono-Black Demons,92fabb18-c4da-42f6-a7fb-b2d10177e263,1105
+1105,Johnny Deluna,3,Izzet Prowess,a3c72df4-ffaf-418b-9430-b2d101637cbb,1106
+1106,Sam Simmons,3,Sultai Beanstalk,32805c4d-07c8-45ae-af37-b2d000ef7aab,1107
+1107,Hattywomper,3,Mono-Black Demons,32dfa2e2-8a0b-4ded-a054-b2d1011f51c7,1108
+1108,Chris Danis,3,Jeskai Control,5fabefe7-3a4c-4636-b23e-b2d10176edc5,1109
+1109,Brian Switzer,3,Selesnya Cage,ff57f5b0-e5ef-43bd-ba69-b2cf0034e7b8,1110
+1110,David Kring,3,Jeskai Control,b3db18ae-8eb7-4ac1-afac-b2d10026c010,1111
+1111,Brian Dang,3,Jeskai Oculus,84a4a6cf-bacd-4021-af0e-b2d000304c4e,1112
+1112,Jose Godoy,3,Izzet Cauldron,52a03a4a-b9d2-4183-be40-b2d100fa70df,1113
+1113,GraysonAlexander,3,Simic Aggro,d967a0e1-3fa5-4a11-8e96-b2d1010ef915,1114
+1114,ShadowTitan123,3,Jeskai Oculus,e7ec6647-b543-4808-a774-b2d10138df1f,1115
+1115,Nicholas Castro,3,Bant Toxic,7b7d6d85-7daa-45c1-947b-b2d0002d0bee,1116
+1116,Tier1GamesSoCal,3,Zur Overlords,6e3ec99d-f571-4902-ba3c-b2d10169deef,1117
+1117,Michael Trevor,3,Izzet Prowess,0b0c76b6-df93-480f-af78-b2d1010da30d,1118
+1118,Ben A Miller,3,Gruul Mice,1025d308-2656-4d37-90b0-b2d10030caf6,1119
+1119,Zakaria Aossey,3,Izzet Prowess,97304862-75b1-404d-a7d5-b2d10008432e,1120
+1120,Ahusga,3,Izzet Prowess,cccd73c2-486b-4fc3-bffd-b2d1016aacbc,1121
+1121,Leo Anselmi,3,Jeskai Oculus,7e5e26a5-c5ca-4a3a-9060-b2d1016f6eb2,1122
+1122,Johnny Daniel,3,Mono-Red Aggro,c3062938-7029-4221-8a1e-b2d1011fc275,1123
+1123,Donald Sheldon,3,Azorius Omniscience,33e13c97-ddf5-44e1-902a-b2d1011934f5,1124
+1124,David Stednitz,3,Zur Overlords,da1ad341-bd68-4670-b1ff-b2d101265fac,1125
+1125,Tristolio,3,Jeskai Oculus,fa969f40-2730-4ccc-a146-b2d101766fbb,1126
+1126,Harrison Bates,3,Mono-Red Aggro,1f07a768-f5dd-439b-ae73-b2d1012d5742,1127
+1127,Carlos Zambrano,3,Izzet Prowess,a88b2b50-a089-47ef-b016-b2d1016b65db,1128
+1128,Max Deresh,3,Jeskai Oculus,ec75d97a-03d1-4c1e-a8e6-b2d10169a998,1129
+1129,Dane Yates,3,Azorius Midrange,c732182b-6114-4d64-ba23-b2d001074bc9,1130
+1130,Forest Yan,3,Izzet Prowess,7a9e19b3-9877-46e2-b0d5-b2d1017a71d4,1131
+1131,Matt Anciaux,3,Azorius Control,df1774df-b9b7-4e18-b802-b2cf016daca5,1132
+1132,Nick Tardif,3,Boros Aggro,5729be7b-995d-4c65-bac0-b2d101721337,1133
+1133,Justin Crozier,3,Izzet Prowess,a689038b-b05b-4998-b361-b2d0015dd6fd,1134
+1134,Stanley Hartman,3,Izzet Prowess,766e7d07-66de-4bad-89ef-b2d00184bd33,1135
+1135,Jarel Winston,3,Azorius Omniscience,4bff592b-6f55-43f9-a437-b2d1015cac68,1136
+1136,WanderingDream22,3,Gruul Mice,96fba4ad-49d1-46b1-b028-b2d10118d392,1137
+1137,ZachsEvilTwin,3,Dimir Midrange,48025bae-0217-4be8-9fb8-b2d100f84477,1138
+1138,LlamaWizard,3,Selesnya Midrange,fe64d936-ed23-4ffd-b07b-b2d1012da906,1139
+1139,Nicole Tipple,3,Izzet Prowess,07f183ba-ef91-46f6-9a6c-b2d00061b2c9,1140
+1140,Ian Wolf,3,Izzet Prowess,69ae9f3c-c494-4d1f-a53e-b2d1004e2fbe,1141
+1141,Brad D'Ambrosio,3,Jeskai Oculus,1ba6944f-26f5-421f-8050-b2d1009762e2,1142
+1142,PardonMyFrench,3,Sultai Dragons,f795cb8f-5298-40b2-b229-b2d1003e5cc5,1143
+1143,Conor Marley,3,Izzet Prowess,9617aa6d-dde7-49d5-9e7a-b2d101737b8f,1144
+1144,Antonio Chemello,3,Simic Merfolk,8bbf9ba2-0883-473d-95b7-b2d10100341b,1145
+1145,Spencer Martin,3,Golgari Midrange,b9244751-355d-499c-9cdd-b2ce0121f5fa,1146
+1146,Ethan Hembree,3,Izzet Prowess,a44513a1-cc36-4ff7-90ab-b2d1015656af,1147
+1147,Joseph01,3,Azorius Control,77fc9eed-7c6b-42aa-8f4e-b2b2004f8443,1148
+1148,Ben Bauer,3,Izzet Prowess,92d4aabc-7321-4721-9023-b2ce011101ed,1149
+1149,Richard Nealston,3,Mono-Black Demons,424d696c-30a3-4f06-96c9-b2d101670c3a,1150
+1150,Ryan Brozovich,3,Izzet Prowess,a06a2ffe-e996-4230-98bf-b2d101168c9a,1151
+1151,Austin Nichols,3,Azorius Omniscience,df125841-e3d3-41a2-b6b8-b2d001357917,1152
+1152,Sam Beaulieu,3,Izzet Prowess,432c5daa-4131-4727-b944-b2d10036f0ea,1153
+1153,unratedfate,3,Izzet Prowess,2048ec84-329a-4fd5-93ac-b2d10168f681,1154
+1154,Kevin Downs,3,Azorius Omniscience,62b8496f-3886-42fc-a53c-b2d101564cb4,1155
+1155,Micah Munson,3,Izzet Prowess,26db2978-7d10-4986-9abd-b2d101584f9e,1156
+1156,Julian Eisenbraun,3,Izzet Prowess,7982f7f9-245e-4b78-a86d-b2d1014929b8,1157
+1157,Jason Miller,3,Jeskai Oculus,11017447-b2e7-4352-8482-b2d1017a168c,1158
+1158,Jonathan Buwalda,3,Izzet Prowess,4fd00899-f7cb-4dc7-8d72-b2d00030e1cd,1159
+1159,Austin Query,3,Izzet Prowess,bfb23339-8bb0-43a4-abb5-b2d101692654,1160
+1160,Dale Gamez,3,Mono-Red Aggro,4cdb5251-0195-4f42-91ac-b2d101842d60,1161
+1161,ConnorDale,3,Golgari Midrange,fdc02b65-2b1b-4f0e-8fd8-b2ce003836ee,1162
+1162,Lukas Parson,3,Golgari Midrange,6a039068-537f-4d3c-9f14-b2d1013ccd7b,1163
+1163,Toothy,3,Izzet Prowess,f0a621d0-32f7-4e16-a9b4-b2d1004d5fd4,1164
+1164,Steven Wilkins,3,Orzhov Pixie,0ca72e24-dd0b-4388-a7c1-b2d101652f6b,1165
+1165,Ed Yelton,3,Mardu Combo,db63a672-c1c5-479f-9c33-b2cf012fd64a,1166
+1166,BadBoyBartels,3,Mono-Red Aggro,8990b6c5-6dd5-47b5-a503-b2d1012ef104,1167
+1167,TylerRaeburn,3,Orzhov Bounce,c2d99095-5433-4249-b71e-b2d1017fe326,1168
+1168,Michael Hilton,3,Izzet Prowess,28bdc052-043b-4cbf-9aa1-b2d0018966ed,1169
+1169,Chase Pumford,3,Five-Color Ramp,29fe1adf-d9ad-437b-8278-b2d10115e642,1170
+1170,LCook,3,Izzet Prowess,b5e83775-62a7-4639-a4c9-b2d100f190a5,1171
+1171,Donald Samuels,3,Izzet Prowess,06976d9d-04fd-4336-b3bc-b2cf016aa6c4,1172
+1172,Pete Ingram,3,Izzet Prowess,d279512d-cfd6-4f83-a899-b2d10159f490,1173
+1173,Andrew Ohlschwager,3,Izzet Prowess,60edd44c-5d4c-49dc-b05d-b2d1013162d3,1174
+1174,Lucas Alvarado,3,Five-Color Reanimator,a58f0c85-4c13-46f0-9fd6-b2d00167db9d,1175
+1175,Lauren Black,3,Boros Mice,8bf95edf-ccfd-41a0-9df7-b2d0014bf987,1176
+1176,Jack Yudt,3,Izzet Prowess,554b3262-f83d-4793-be00-b2d101761ff8,1177
+1177,Shen,3,Orzhov Pixie,715ea02b-df65-4a03-8c30-b2d101239003,1178
+1178,Bswizz,3,Azorius Control,0a6182db-a4ed-49db-882d-b2d10052a1c2,1179
+1179,DylanHeisey,3,Izzet Prowess,5390971f-5e15-4d42-86ba-b2d101507231,1180
+1180,BakedZiti,3,Zur Overlords,081eb6c0-d84a-4286-bdb3-b2d1000e61d2,1181
+1181,Riley Scott,3,Golgari Midrange,92abad53-0bb1-40ea-af3f-b2d100c74c8b,1182
+1182,Marlee Shafer,3,Azorius Aggro,4ff6ab41-263a-40d4-ae59-b2d10176520f,1183
+1183,Christopher Hiers,3,Mono-Red Aggro,d6dce4af-8d2e-4270-9b25-b2d1016fa63a,1184
+1184,Austin Brazell,3,Izzet Prowess,81a3406f-629b-461a-b684-b2d100fed5c3,1185
+1185,Noah Root,3,Izzet Prowess,ec1eabc8-396e-4a37-82c7-b2d100290b8b,1186
+1186,AustinWelker,3,Mono-Red Aggro,71401e93-c046-4a64-a689-b2d101665557,1187
+1187,Justin Plocher,3,Izzet Prowess,4425d64c-49f7-4e10-a407-b2d101326808,1188
+1188,Jack Cramer,3,Izzet Prowess,ab64d577-5ff3-4b27-aff7-b2d1000c9457,1189
+1189,Jrice84,3,Azorius Bounce,66930cf3-f6c2-4497-87a4-b2d1015f2eee,1190
+1190,Pickle3500,3,Azorius Control,399b38c8-14b7-4200-972c-b2d1010e8a6c,1191
+1191,Brennan Clark,3,Mono-Black Demons,ac8b97fc-36fa-4eac-a569-b2d10157fa42,1192
+1192,Creyson Buckman,3,Jeskai Control,7a4bc2e6-66ea-4e1d-9824-b2d101290159,1193
+1193,Kai Peetz,3,Jeskai Oculus,afc45a82-78f0-4054-be9c-b2d1015e2224,1194
+1194,Srennison,3,Zur Overlords,94a98413-9aaf-41bd-ae4c-b2d000ff9a05,1195
+1195,Nbellmy,3,Jeskai Control,96213814-3a98-4210-9b1a-b2d10049d1ba,1196
+1196,IsaacCanlas,3,Izzet Prowess,9107311b-af66-47e2-af27-b2cf0125390b,1197
+1197,JosC17,3,Dimir Midrange,8286c52c-2a22-4bb7-9c56-b2d1012ac488,1198
+1198,rustygray,3,Abzan Sibsig Ceremony,0cb0382c-39de-498b-bed3-b2bb0131e3fe,1199
+1199,William Dalke,3,Jeskai Oculus,54ed55dc-d73a-47cf-8b2d-b2d1004bdab5,1200
+1200,AlekRivera,3,Jeskai Oculus,93e5ceab-e32e-4c5d-9ff7-b2d10048fd12,1201
+1201,Fred Stryker,3,Izzet Prowess,02a7b7ae-de8c-4375-a99b-b2d101553e41,1202
+1202,Travis Boyd,3,Esper Pixie,00e4d14a-deb5-4214-85ca-b2d1015ca74d,1203
+1203,Sean Gallagher,3,Jeskai Control,43ede458-d365-4498-a8cc-b2d000351e62,1204
+1204,Yinan Wan,3,Izzet Prowess,eec40d39-98b6-4eb2-b40e-b2d1002de933,1205
+1205,JusP2,3,Jeskai Control,b423d35c-a1c1-4fca-9c88-b2c50150ede9,1206
+1206,Sam Bullard,3,Esper Pixie,c62ed956-3c04-44d7-9db4-b2d1016cb555,1207
+1207,Brian Moise,3,Jeskai Control,54c3b289-e570-459a-8fda-b2d10145f0f8,1208
+1208,SteR49,3,Gruul Mice,3fd75d2b-c1cc-4413-92ea-b2d10177b86e,1209
+1209,Utkarsh Koshti,3,Orzhov Pixie,dd12922e-449b-4bc6-9592-b2d101384ec5,1210
+1210,Oliver Jan,3,Izzet Prowess,3a7d3dae-f2ed-41df-a231-b2d100279a85,1211
+1211,Adam Morse,3,Jeskai Oculus,bed988bc-0f58-46af-8540-b2d2001a744d,1212
+1212,Joe Swiggum,3,Izzet Prowess,64af7659-10a3-4903-9728-b2d1005752fe,1213
+1213,Elliott Groves,3,Azorius Omniscience,8ad8fcb5-260c-40f5-b524-b2d0015a6e3c,1214
+1214,Ibirrell,3,Azorius Omniscience,571b88ca-7c02-4c34-8fbb-b2d100301fc8,1215
+1215,Kris Ward,3,Jeskai Oculus,401081c2-08a3-4957-963b-b2d10104c32e,1216
+1216,Noel Cerda,3,Izzet Prowess,73748fd9-fc8e-4300-89d8-b2d10146cabd,1217
+1217,dan jessup,3,Izzet Prowess,91507104-2401-4dc8-a535-b2d10149c4bc,1218
+1218,Jurrd,3,Izzet Prowess,7279c69d-f61e-4521-9565-b2d1007ad78a,1219
+1219,Philips Nguyen,3,Gruul Mice,00dba520-5ca2-44fb-8f32-b2d1014c6ede,1220
+1220,Calebshawn,3,Mono-White Tokens,e55bce28-da25-46c6-bc15-b2d101536285,1221
+1221,Etai Kurtzman,3,Mono-Red Aggro,e7e08499-f54b-4684-a7f2-b2d1000fce68,1222
+1222,Meepo,3,Izzet Prowess,3cb91a4d-2ee3-43f4-9a5e-b2d1014a882e,1223
+1223,Peter Pawelski,3,Izzet Prowess,abb06e46-16da-457f-b739-b2d1010b0bcb,1224
+1224,MatthewShelley240,3,Mono-Red Aggro,c2d71481-03d4-4ae6-bf1a-b2d100816fd3,1225
+1225,goodwind12,3,Esper Pixie,bc95f68f-0456-49cf-8860-b2d10045fc21,1226
+1226,rswipes,3,Mono-Red Aggro,cf71b4bd-4963-4a92-b646-b2d001594f3a,1227
+1227,TonyLaGrassa,3,Simic Beanstalk,4783f064-2473-473e-bf02-b2d100f84ffc,1228
+1228,Rudy Martinez,3,Zur Overlords,3e000225-61bc-46c3-86a2-b2d101705999,1229
+1229,Mary S,3,Azorius Omniscience,c05bfac5-9c76-4c4d-967d-b2d00158f2d0,1230
+1230,MJ Corey,3,Mono-Red Aggro,545eb589-3692-422c-ab15-b2d1016dfaac,1231
+1231,Sean Ulmer,3,Izzet Prowess,b4cfe4c5-2fee-4b1d-98ec-b2ba00ead979,1232
+1232,Daniel Lebben,3,Jeskai Convoke,d502a9af-b9e6-4c01-b471-b2d10165524a,1233
+1233,Eli Hand,3,Azorius Omniscience,05c69d8a-3996-4a3c-9963-b2d1014d0a45,1234
+1234,George Jabbour,3,Zur Overlords,9c648dba-09a3-4330-8e51-b2d1012115f3,1235
+1235,BBlaze,3,Izzet Prowess,810d06f7-5ac5-42e6-b19c-b2d1016b4d02,1236
+1236,MarkPhyrexian,3,Izzet Prowess,ecd605b9-ca13-4fa1-982c-b2d101726b4d,1237
+1237,ZatchNotZach,3,Jeskai Oculus,943d39b4-ce83-4e04-8378-b2d1016f93ee,1238
+1238,Kyle Smith,3,Mono-Red Aggro,6cce5088-5a49-422a-9bcc-b2d0017c09f4,1239
+1239,Cody Anderson,3,Zur Overlords,cce8d394-c316-486a-bc8a-b2cd00eac492,1240
+1240,Benji Leaf,3,Rakdos Reanimator,c2f71951-5dd1-4495-b944-b2ce01855bda,1241
+1241,David Tian,3,Zur Overlords,07370c03-6cba-47e0-ad1a-b2d1016e45c3,1242
+1242,Kyle Schwartz,3,Mono-Red Aggro,b5109670-4ed5-48b5-b43d-b2d0002fb9e9,1243
+1243,Jose Deleon,3,Mono-Red Aggro,fd5bf794-6046-44a0-8c78-b2d00063818c,1244
+1244,Cody Hamm,3,Rakdos Leyline,ceb50f72-cc7f-4d6d-8087-b2d101649f1a,1245
+1245,Jeremy Lundin,3,Izzet Prowess,c77063b4-3504-4d0a-a489-b2d0014ba485,1246
+1246,Brandon Cook,2,Jeskai Oculus,1c1c746d-f7bb-4470-926d-b2d10126e765,1247
+1247,adesai91,2,Mono-Black Demons,0e6e95c1-0a9d-4a0f-bf19-b2d101451cfe,1248
+1248,Clarence Dews,1,Zur Overlords,06708e96-b418-47db-9d10-b2d10124d177,1249
+1249,Jack Nichols,1,Jeskai Oculus,b927e842-f143-4319-9153-b2d1016f8cec,1250
+1250,jacob tano,1,Jeskai Oculus,60d43ded-d676-4326-8c0a-b2d0008ed584,1251
+1251,Kristienne Harris,1,Selesnya Cage,920d31e8-aef9-4786-ad3d-b2d10058e512,1252
+1252,Roman Ewing,1,Jeskai Control,8bb0941f-564e-4e05-9148-b2d10150e4c7,1253
+1253,Cheech2k10,1,Jeskai Control,dd5382f2-ce78-4414-9771-b2d1006ca53c,1254
+1254,Juan Del Cid,1,Golgari Beanstalk,3e2985e6-1759-4b29-98d4-b2d00054d82c,1255
+1255,Ethan Kolby,1,Izzet Prowess,7cb3bd23-7bca-4630-bd5a-b2d000e4f473,1256
+1256,Phillip Nicley,0,Jeskai Control,4ee53c92-98d2-47c9-96ec-b2d1005afa8f,1257
+1257,Joshua Martinez,0,Izzet Prowess,932f88dc-511f-4f82-9069-b2d1012c9acd,1258
+1258,Christopher Porter,0,Mono-Red Aggro,ee8e3329-476e-479a-ae77-b2d101461eea,1259
+1259,Okiewan,0,Esper Pixie,c0f10002-4e1b-4f87-ab0f-b2d1002820b0,1260
+1260,Chris Swafford,0,Izzet Prowess,0589cd0d-941a-4811-8cfe-b2d100fd33ff,1261
+1261,Peter Gustafson,0,Sultai Dragons,30255fbf-cf97-49ac-b4d9-b2d1004d0e27,1262
+1262,izeaspeer,0,Jeskai Oculus,b96ed368-2500-495e-8db6-b2d100c3a5d1,1263
+1263,Quintin Myers,0,Selesnya Cage,b2e1fed4-182b-4d4a-b1e2-b2d00158b9fe,1264
+1264,Shadowuni,0,Zur Overlords,30de02de-e6ef-4317-acc5-b2d1015b982f,1265
+1265,Michael Boland,0,Gruul Mice,da97a6d6-dff1-4c9c-8561-b2d100056af1,1266
+1266,Andres Lopez,0,Zur Overlords,8ed1388d-e507-4dfe-81f7-b2d100273bf4,1267
+1267,Lucadanovi,0,Mono-Red Aggro,548352d3-c30a-47ca-ba9c-b2d1004b66b8,1268
+1268,Steven Boston,0,Izzet Prowess,adb9a441-1fd2-43fa-af6b-b2d10147eb66,1269
+1269,DeShawn Johnson,0,Jeskai Convoke,6619d156-3ba4-4525-9adf-b2d1001a04af,1270
+1270,Jace Lutenbacher,0,Izzet Prowess,38beda65-7a81-4e62-bf05-b2d10160e245,1271
+1271,Matt Baker,0,Izzet Prowess,fb015f20-0c68-479a-82ef-b2cd00ef1886,1272
+1272,Kaydazz,0,Mono-Red Aggro,980cec04-c7ad-449c-acc9-b2d10015a5d4,1273
+1273,Angell Heredia,0,Izzet Prowess,787eb255-5d4f-4dd6-a08f-b2d100e9fc70,1274
+1274,AlexPrince19,0,Azorius Omniscience,7e09ceac-8e50-46b2-a056-b2d0003bd822,1275
+1275,Brad Fallen,0,Azorius Omniscience,59f49e69-6596-49f0-b73a-b2d101612f07,1276
+1276,James Spinelli,0,Sultai Control,ab61ad76-ea32-43f9-abb1-b2d100106dc4,1277
+1277,Andrew Skorik,0,Mono-Black Demons,f7a6d833-a674-4815-8e41-b2d1016355ec,1278
+1278,Michael Mckinney,0,Colorless Convoke,80d08d27-9870-4028-9781-b2d000ce7cbb,1279
+1279,Gavin Meagher,0,Jeskai Oculus,06211962-c715-46c4-b45a-b2d10100a0d0,1280
+1280,mattdiischer,0,Zur Overlords,a6a9d6df-6710-488b-a49a-b2d10029ceb3,1281
+1281,Mike Hawthorne,0,Abzan Roots,890c9778-7e1c-404d-a9bf-b2d101488dd3,1282
+1282,Ray611,0,Zur Overlords,00103b61-fd8c-45e9-8281-b2d1013452ab,1283
+1283,NickHavens,0,Dimir Midrange,d477280f-6ec0-458f-9c5b-b2d10040018e,1284
+1284,njkong,0,Mono-Black Demons,01aaac1d-4aea-41ae-af34-b2d100d8fb6c,1285
+1285,AllC6,0,Boros Aggro,dda6f232-343a-4610-b71b-b2d1010d9d79,1286
+1286,Brett Klyn,0,Izzet Prowess,5ac48a9a-2e16-4068-a57c-b2d1017573a2,1287
+1287,ScoobertMcDuck,0,Esper Pixie,2cf6a49f-a82c-4786-8eb5-b2d0014e247f,1288
+1288,Mikey  Hopkins,0,Izzet Prowess,f485fa78-72a3-461d-a6be-b2d100877faa,1289
+1289,rbuono2,0,Mono-White Tokens,74062de4-a8b3-4fe3-b7ba-b2d10142ae1a,1290
+1290,Justin Cavenaugh,0,Zur Overlords,4bd72553-185d-4dbc-9089-b2d100f8deac,1291
+1291,Kreelo54,0,Izzet Prowess,241a5a53-1c60-4f9f-a049-b2d10157551a,1292
+1292,Kevin Thomas,0,Orzhov Pixie,81eecabd-6067-4fdd-a06b-b2d10114aff3,1293
+1293,Nathan Wulf,0,Jeskai Control,5582ed43-f883-4a71-9c02-b2d100e8e213,1294
+1294,Estevan Hetherington,0,Jeskai Control,d0d4502d-ebf0-404c-8d7e-b2ce01687da8,1295
+1295,Jeto2010,0,Mono-Black Aggro,abfffe14-7f2c-418a-a795-b2d101091d98,1296
+1296,rodrigom10,0,Dimir Midrange,8f215d15-b4b6-4331-be55-b2d10024bd23,1297
+1297,Nathan Kainste,0,Jeskai Oculus,2ff7410d-8955-4652-a552-b2d10172cf3f,1298
+1298,Blake Nunez,0,Jeskai Oculus,b868d5a1-1d8b-402e-aa6a-b2d1015c87d5,1299
+1299,Isaac Eaton,0,Azorius Control,00e9e2e7-3f8b-41f9-8890-b2ce01811fe9,1300
+1300,mchipster1044,0,Zur Overlords,123637f6-a33f-4ca2-a801-b2d1015cbe0b,1301
+1301,Adam Soheim,0,Izzet Prowess,6bed644e-ba79-4d10-a8e9-b2d1015542fe,1302
+1302,Brian Glenn,0,Gruul Leyline,f95ca916-98b1-42bb-a283-b2ce01800168,1303
+1303,Larry Coleman,0,Mono-Red Aggro,a641fc17-8403-459b-abb6-b2d1014860c1,1304
+1304,Amelia Stephens,0,Jeskai Oculus,af3d0890-e3a5-4c69-859f-b2d1015631bd,1305
+1305,NyG,0,Izzet Prowess,c5989344-edd0-4be5-b080-b2d1017f0eaf,1306
+1306,Bretthiggins3,0,Izzet Prowess,44eaaf46-ff61-457c-b7bb-b2d100f81e29,1307
+1307,stittjung,0,Orzhov Midrange,e6361084-b86c-423b-b02e-b2cf0186f2d5,1308
+1308,Will Kowalczyk,0,Mono-Red Aggro,c6aa4cfc-5ad9-4d3e-a5bf-b2d100e64d3c,1309
+1309,Joshua Griffith,0,Orzhov Pixie,306be71e-b8e3-4926-a835-b2d00033e8b5,1310
+1310,Kaipo Nagata,0,Azorius Omniscience,7516d6f9-3916-4fae-81dd-b2d1016c3635,1311
+1311,Spencerjrusso,0,Dimir Midrange,43b6a3a2-2d22-4a14-9183-b2d0005b4f7d,1312
+1312,ErgoProxy,0,Izzet Prowess,c488b6a1-487f-4f00-b907-b2d101849774,1313
+1313,FrogGodGamer,0,Dimir Midrange,a84bbc96-1814-4c69-a669-b2d101220746,1314
+1314,MakoRutlage,0,Izzet Prowess,105ba5f9-297e-47a7-8888-b2d10120a120,1315
+1315,Greg Guy,0,Gruul Mice,13674817-c6c4-4a7e-9851-b2d100f0c570,1316
+1316,Nicholas Boyer,0,Selesnya Cage,f4c4e5d8-451d-4242-bd08-b2d1001b566c,1317
+1317,Dalton Semler,0,Mono-Red Aggro,4df1d3de-2fcb-483c-b694-b2d1013be45f,1318
+1318,Noah Walters,0,Zur Overlords,e1c9040b-a56c-4e93-8ddf-b2d100ef6f0b,1319
+1319,Berclee,0,Izzet Prowess,2efb1914-0d6a-458b-af13-b2d1001a5eb8,1320
+1320,djo61285,0,Azorius Control,3abfe9b0-5145-4431-a61f-b2c1002c6101,1321
+1321,ronana,0,Izzet Prowess,d94b712f-5294-45d2-bc3a-b2ce01465513,1322
+1322,Christopher Smith,0,Izzet Prowess,638132eb-3ab1-456a-af71-b2d1011fce60,1323
+1323,Will Scott,0,Izzet Prowess,6191b634-7860-4739-8417-b2d001058ca8,1324
+1324,Richard Rowan,0,Izzet Prowess,423e56a7-7510-4a83-8e2f-b2d101476eb2,1325
+1325,Caleb Burke,0,Orzhov Pixie,4eb38837-74f8-4a3b-9c24-b2d1002fa414,1326
+1326,Ian Flinn,0,Mono-Red Aggro,fda5057e-58a3-4adf-b175-b2cf01700e54,1327
+1327,Nathan Goldberg,0,Orzhov,3a73952f-c568-47b7-9ee6-b2d100f16d79,1328
+1328,Steve Wise,0,Zur Overlords,0cd8db91-a142-4321-97be-b2d10174b868,1329
+1329,Jeff Pyka,0,Jeskai Oculus,0de4e130-0027-4f70-9c28-b2d1002a9def,1330
+1330,Eli Cook,0,Jeskai Control,de33ed0f-4ff7-41d4-a6ad-b2d10113c34e,1331
+1331,Weem0,0,Zur Overlords,16e57cd1-68de-4053-9266-b2d10167d1c7,1332
+1332,"Nick ""The Honse Man"" Roller",0,Izzet Prowess,78408026-7b3d-4802-93c5-b2ce00cfeeac,1333
+1333,Noah Hughes,0,Jeskai Oculus,cf82a62f-7179-48f2-ab66-b2d1012d5688,1334
+1334,Miles Larson,0,Azorius Omniscience,8b63b9a3-eaff-469d-b199-b2d10154d84d,1335
+1335,Dwmathena,0,Izzet Prowess,1eaf8b8f-807e-44e0-8164-b2af00424482,1336
+1336,Gunner Sledgeski,0,Jeskai Oculus,58cdc1fe-2509-4925-b282-b2d0016a8af1,1337
+1337,Armando Rivas,0,Zur Overlords,e96d6de8-18a0-4457-87aa-b2d1005502f5,1338
+1338,Patrick Kelliher,0,Izzet Prowess,4dfdd996-d423-471c-8f82-b2d1015dd412,1339
+1339,Chris Lerch,0,Jeskai Oculus,c8700ee1-eb1b-452c-bbda-b2cf01840a71,1340
+1340,lcabada,0,Orzhov Pixie,ae56284f-cf13-45a9-a239-b2d000120924,1341
+1341,Ferbz,0,Izzet Prowess,6d81610a-131d-45fc-b2d8-b2d100fa5437,1342
+1342,Dakota Evans,0,Azorius Artifacts,2a873bb0-fe8b-4cd7-abe9-b2d0000cca01,1343
+1343,A. Adams,0,Izzet Prowess,4c70e7f2-ce6c-4e00-b3e6-b2d10147ffa0,1344
+1344,Aaron Barich,0,Izzet Prowess,048f9c3c-6ce9-485a-b8b3-b2d1001a1207,1345
+1345,Simon Kamerow,0,Azorius Control,6e966edd-f24b-4203-bfc9-b2d1000855b0,1346
+1346,Andrew Branham,0,Izzet Prowess,453a2909-3013-454a-b9ce-b2d101542376,1347
+1347,Austin Snide,0,Izzet Prowess,695a9122-726d-4984-8282-b2d100fcf42d,1348
+1348,Coleman Perret,0,Izzet Prowess,ee96cb49-878f-44c1-b03c-b2d101755512,1349
+1349,Blake Wellenkamp,0,Mono-Red Aggro,afe4c283-2f38-4e95-86be-b2d000edcf17,1350
+1350,Hope Beacom,0,Izzet Prowess,4df90972-a4ee-4a7f-9e93-b2d00055faea,1351
+1351,Brian Hallahan,0,Jeskai Control,049c735d-7a97-44c2-bdb8-b2cf0030510a,1352
+1352,Frank K,0,Izzet Prowess,5119a5ec-faed-4dc3-8c4a-b2d00126398f,1353
+1353,Michael Pearsall,0,Azorius Artifacts,d8a921f6-1439-4a7b-8b0f-b2d1012cc62b,1354
+1354,Kristen Weiss,0,Orzhov Pixie,87eb432b-2714-4333-b510-b2d1010aeb64,1355
+1355,jeremiah nelson,0,Izzet Prowess,de4c3077-fc11-44bd-ad03-b2d001511f44,1356
+1356,Jonathan Files,0,Gruul Aggro,707bf901-b9f4-408a-8362-b2d101119f05,1357
+1357,thesilvaman,0,Mono-Red Aggro,8e2fefa8-a5ec-41bf-86d6-b2cf016b0fc0,1358
+1358,Ron Barutha,0,Golgari Dragons,1617795e-3eca-4040-96b9-b2d100125873,1359
+1359,TheTylerMaloney99,0,Zur Overlords,bb7ab805-3b0f-4737-a00b-b2d10143f0e1,1360
+1360,Michael Bandy,0,Mono-Black Demons,e1d0f28e-fc7b-440e-a4db-b2d101160d44,1361
+1361,MIchael Steele,0,Mono-Red Monument,10cef1e2-9249-4f4d-9cde-b2ce0174144b,1362
+1362,Jamie Rutledge,0,Mono-Red Aggro,52105b60-eeba-4632-b353-b2cd000d1858,1363
+1363,Matthew Fileccia,0,Rakdos Reanimator,723bbb1d-9f66-414c-8213-b2cf01609a95,1364
+1364,HapipnessLTD,0,Mono-Black Demons,4bfab498-98ec-427d-bc9b-b2d101054d9e,1365
